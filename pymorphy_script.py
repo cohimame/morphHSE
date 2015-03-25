@@ -47,7 +47,8 @@ def parse(token):
         pos,other = l[0],l[1]
         return "{}\t{}\t{}\t{}\n".format(token,norm,pos,other)
     else:
-        return "{}\n".format(token) 
+        pos  = l[0]         
+        return "{}\t{}\n".format(token,pos) 
     
 
 def first_1k(gold):
@@ -75,17 +76,8 @@ def left_ambig(gold):
                 print(lemma)
             else:
                 pass
-            
-    """
-            lemma = morph.parse(word)[0].normal_form
-            if lemma =="":
-                print(lemma)
-            else:
-                pass
-    """
     
 left_ambig(GIVENGOLD)
-#print("left ambig %s" % left_ambig(GIVENGOLD))
 
 def lex_accuracy(gold):
     pos   = 0.0
@@ -158,6 +150,6 @@ print("pos tag acc %s" %  postag_accuracy(GIVENGOLD))
 #print(strtag.split(',',1))
 #-------------------------------------
     
-#prepare_gold()
+prepare_gold()
     
 #-------------------------------------

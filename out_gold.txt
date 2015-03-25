@@ -5,79 +5,79 @@ Wordform_GS2	Lemma_GS2	POS_GS2	Gram_GS2
 обыкновенной	обыкновенный	ADJF	Qual femn,sing,gent
 сирени	сирень	NOUN	inan,femn sing,gent
 мелкие	мелкий	ADJF	Qual plur,nomn
-,
+,	PNCT
 собраны	собрать	PRTS	perf,past,pssv plur
 парными	парный	ADJF plur	ablt
 пучками	пучок	NOUN	inan,masc plur,ablt
-(
-по
+(	PNCT
+по	PREP
 3	3	NUMB	intg
--
+-	PNCT
 5	5	NUMB	intg
 цветков	цветковый	ADJS	Qual masc,sing
-в
+в	PREP
 пучке	пучок	NOUN	inan,masc sing,loct
-,
+,	PNCT
 отдельные	отдельный	ADJF	Qual plur,nomn
 сорта	сорт	NOUN	inan,masc sing,gent
-по
+по	PREP
 7	7	NUMB	intg
--
+-	PNCT
 9	9	NUMB	intg
 цветков	цветковый	ADJS	Qual masc,sing
-)
-.
-В
+)	PNCT
+.	PNCT
+В	PREP
 конце	конец	NOUN	inan,masc sing,loct
 осени	осень	NOUN	inan,femn sing,gent
 кора	кора	NOUN	inan,femn,Sgtm sing,nomn
 побегов	побег	NOUN	inan,masc plur,gent
 становится	становиться	VERB	impf,intr sing,3per,pres,indc
 серой	сера	NOUN	inan,femn sing,ablt
-.
-В
+.	PNCT
+В	PREP
 центре	центр	NOUN	inan,masc sing,loct
 цветка	цветок	NOUN	inan,masc sing,gent
 бело-кремовое	бело-кремовый	ADJF	Qual neut,sing,nomn
 пятнышко	пятнышко	NOUN	inan,neut sing,nomn
-в
+в	PREP
 виде	вид	NOUN	inan,masc sing,loct
 звездочки	звёздочка	NOUN	inan,femn sing,gent
-.
-При
+.	PNCT
+При	PREP
 уплотнении	уплотнение	NOUN	inan,neut sing,loct
 почвы	почва	NOUN	inan,femn sing,gent
-и
+и	CONJ
 асфальтировании	асфальтирование	NOUN	inan,neut sing,loct
 суховершинит	суховершинить	VERB	perf,tran sing,3per,futr,indc
-.
+.	PNCT
 Морозостоек	морозостойкий	ADJS masc	sing
-.
+.	PNCT
 Родина	родина	NOUN	inan,femn sing,nomn
--
+-	PNCT
 горные	горный	ADJF	Qual plur,nomn
 леса	леса	NOUN	inan,femn sing,nomn
 Тянь-Шаня	тянь-шань	NOUN	inan,masc,Sgtm,Geox sing,gent
-.
-Дико
+.	PNCT
+Дико	ADVB
 растет	расти	VERB	impf,intr sing,3per,pres,indc
-на
+на	PREP
 сухих	сухой	ADJF	Qual plur,gent
 склонах	склон	NOUN	inan,masc plur,loct
-в
-умеренно
+в	PREP
+умеренно	ADVB
 теплых	тёплый	ADJF	Qual plur,gent
 районах	район	NOUN	inan,masc plur,loct
-на
+на	PREP
 обширной	обширный	ADJF	Qual femn,sing,gent
 территории	территория	NOUN	inan,femn sing,loct
-от
+от	PREP
 Западной	западный	ADJF	Qual femn,sing,gent
 Европы	европа	NOUN	inan,femn,Sgtm,Geox sing,gent
-до
+до	PREP
 восточной	восточный	ADJF	Qual femn,sing,gent
 Азии	азия	NOUN	inan,femn,Sgtm,Geox sing,gent
-.
+.	PNCT
 Полученное	получить	PRTF	perf,tran,past,pssv neut,sing,nomn
 количество	количество	NOUN	inan,neut sing,nomn
 саженцев	саженцевый	ADJS	Qual masc,sing
@@ -86,257 +86,257 @@ Wordform_GS2	Lemma_GS2	POS_GS2	Gram_GS2
 пропорционально	пропорциональный	ADJS	Qual neut,sing
 объему	объём	NOUN	inan,masc sing,datv
 работ	работа	NOUN	inan,femn plur,gent
-по
+по	PREP
 годам	год	NOUN	inan,masc plur,datv
 перспективного	перспективный	ADJF	Qual neut,sing,gent
 периода	период	NOUN	inan,masc sing,gent
-и
+и	CONJ
 вычисляют	вычислять	VERB	impf,tran plur,3per,pres,indc
 среднегодовую	среднегодовой	ADJF femn	sing,accs
 потребность	потребность	NOUN	inan,femn sing,nomn
-.
+.	PNCT
 Дистальнее	дистальнея	NOUN	inan,femn,Sgtm,Geox sing,datv
 места	место	NOUN	inan,neut sing,gent
 сужения	сужение	NOUN	inan,neut sing,gent
 проток	проток	NOUN	inan,masc sing,nomn
-не
+не	PRCL
 визуализируется	визуализироваться	VERB	impf,intr sing,3per,pres,indc
-.
+.	PNCT
 ЗАКЛЮЧЕНИЕ	заключение	NOUN	inan,neut sing,accs
-:
+:	PNCT
 Инфильтративные	инфильтративный	ADJF plur	nomn
 изменения	изменение	NOUN	inan,neut sing,gent
-в
+в	PREP
 зоне	зона	NOUN	inan,femn sing,loct
 гепатикоэнтероанастомоза	гепатикоэнтероанастомоз	NOUN	inan,masc sing,gent
-,
-в
+,	PNCT
+в	PREP
 воротах	ворот	NOUN	inan,masc plur,loct
 печени	печень	NOUN	inan,femn sing,loct
-,
-во
+,	PNCT
+во	PREP Vpre
 внутрибрюшной	внутрибрюшной	ADJF masc	sing,nomn
 жировой	жиров	NOUN	anim,femn,Sgtm,Surn sing,gent
 клетчатке	клетчатка	NOUN	inan,femn sing,datv
-.
+.	PNCT
 Золотовалютные	золотовалютный	ADJF plur	nomn
 резервы	резерв	NOUN	inan,masc plur,nomn
 увеличились	увеличиться	VERB	perf,intr plur,past,indc
-на
+на	PREP
 170	170	NUMB	intg
 миллиардов	миллиард	NOUN	inan,masc plur,gent
 долларов	доллар	NOUN	inan,masc plur,gent
-и
+и	CONJ
 приближаются	приближаться	VERB	impf,intr plur,3per,pres,indc
-к
+к	PREP
 отметке	отметка	NOUN	inan,femn sing,loct
-в
+в	PREP
 полтриллиона	полтриллион	NOUN	inan,masc sing,gent
 долларов	доллар	NOUN	inan,masc plur,gent
 США	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox plur,gent
--
+-	PNCT
 точнее	точнее	CONJ	Prnt
-,
+,	PNCT
 478	478	NUMB	intg
-,
+,	PNCT
 6	6	NUMB	intg
-,
-по
+,	PNCT
+по	PREP
 последним	последний	ADJF plur	datv
 данным	данные	NOUN	inan,GNdr,Pltm plur,datv
-(
-чуть-чуть
+(	PNCT
+чуть-чуть	ADVB
 понижение	понижение	NOUN	inan,neut sing,nomn
 произошло	произойти	VERB	perf,intr neut,sing,past,indc
-в
+в	PREP
 связи	связь	NOUN	inan,femn sing,loc2
-с
+с	PREP
 изменением	изменение	NOUN	inan,neut sing,ablt
 курса	курс	NOUN	inan,masc sing,gent
 доллара	доллар	NOUN	inan,masc sing,gent
-)
-.
-Это
+)	PNCT
+.	PNCT
+Это	PRCL
 вершина	вершина	NOUN	inan,femn sing,nomn
 тесного	тесный	ADJF	Qual masc,sing,gent
-и
+и	CONJ
 плодотворного	плодотворный	ADJF	Qual masc,sing,gent
 сотрудничества	сотрудничество	NOUN	inan,neut sing,gent
-между
+между	PREP
 нашими	наш	ADJF	Apro plur,ablt
 странами	страна	NOUN	inan,femn plur,ablt
-.
+.	PNCT
 Мы	мы	NPRO	1per plur,nomn
-еще
+еще	PRCL
 некоторое	некоторый	ADJF	Apro neut,sing,accs
 время	время	NOUN	inan,neut sing,accs
 разговариваем	разговаривать	VERB	impf,intr plur,1per,pres,indc
-с
+с	PREP
 Епископом	епископ	NOUN	anim,masc sing,ablt
 Лукианом	лукиан	NOUN	anim,masc,Name sing,ablt
-,
-потом
+,	PNCT
+потом	ADVB
 он	он	NPRO	masc,3per,Anph sing,nomn
 провожает	провожать	VERB	impf,tran sing,3per,pres,indc
 меня	я	NPRO	1per sing,accs
-до
+до	PREP
 ворот	ворота	NOUN	inan,GNdr,Pltm plur,gent
 Резиденции	резиденция	NOUN	inan,femn sing,gent
-,
+,	PNCT
 откуда	откуда	ADVB	Ques
-навстречу
+навстречу	ADVB
 нам	мы	NPRO	1per plur,datv
 идет	идти	VERB	impf,intr sing,3per,pres,indc
 многочисленный	многочисленный	ADJF	Qual masc,sing,nomn
-и
+и	CONJ
 многоязычный	многоязычный	ADJF	Qual masc,sing,nomn
 поток	поток	NOUN	inan,masc sing,accs
 людей	человек	NOUN	anim,masc plur,gent
-,
+,	PNCT
 желающих	желающий	NOUN	anim,masc plur,gent
 осмотреть	осмотреть	INFN	perf,tran
 экспонаты	экспонат	NOUN	inan,masc plur,accs
 Православного	православный	ADJF neut	sing,gent
 Музея	музей	NOUN	inan,masc sing,gent
-и
+и	CONJ
 посетить	посетить	INFN	perf,tran
 Кафедральный	кафедральный	ADJF inan	masc,sing,accs
 Собор	собор	NOUN	inan,masc sing,accs
-.
+.	PNCT
 Многотысячный	многотысячный	ADJF masc	sing,nomn
 коллектив	коллектив	NOUN	inan,masc sing,nomn
-"
+"	PNCT
 Газпрома	газпром	NOUN	inan,masc,Orgn sing,gent
-"
-денно
-и
-нощно
+"	PNCT
+денно	ADVB
+и	CONJ
+нощно	ADVB
 трудился	трудиться	VERB	impf,intr masc,sing,past,indc
-над
+над	PREP
 поставленной	поставить	PRTF	perf,tran,past,pssv femn,sing,gent
 задачей	задача	NOUN	inan,femn sing,ablt
-.
+.	PNCT
 Там	там	ADVB	Dmns
 оставалось	оставаться	VERB	impf,intr neut,sing,past,indc
-еще
+еще	PRCL
 60	60	NUMB	intg
 сербских	сербский	ADJF plur	gent
 сел	сесть	VERB	perf,intr masc,sing,past,indc
-.
+.	PNCT
 Мы	мы	NPRO	1per plur,nomn
 шли	идти	VERB	impf,intr plur,past,indc
-в
+в	PREP
 бой	бой	NOUN	inan,masc sing,accs
-вместе
-и
+вместе	ADVB
+и	CONJ
 готовы	готовый	ADJS	Qual plur
 были	быть	VERB	impf,intr plur,past,indc
 пролить	пролить	INFN	perf,tran
 кровь	кровь	NOUN	inan,femn sing,nomn
 друг	друг	NOUN	anim,masc sing,nomn
-за
+за	PREP
 друга	друг	NOUN	anim,masc sing,gent
-.
--
+.	PNCT
+-	PNCT
 Какие	какой	ADJF	Apro plur,nomn
 впечатления	впечатление	NOUN	inan,neut sing,gent
-у
+у	PREP
 вас	вы	NPRO	2per plur,accs
 остались	остаться	VERB	perf,intr plur,past,indc
-от
+от	PREP
 Москвы	москва	NOUN	inan,femn,Sgtm,Geox sing,gent
-в
+в	PREP
 1972	1972	NUMB	intg
 году	год	NOUN	inan,masc sing,loc2
-?
--
-По
+?	PNCT
+-	PNCT
+По	PREP
 удивительному	удивительный	ADJF	Qual masc,sing,datv
 стечению	стечение	NOUN	inan,neut sing,datv
 обстоятельств	обстоятельство	NOUN	inan,neut plur,gent
 ваш	ваш	ADJF	Apro masc,sing,nomn
 олимпийский	олимпийский	ADJF masc	sing,nomn
 триумф	триумф	NOUN	inan,masc sing,nomn
-идеально
+идеально	ADVB
 совпал	совпасть	VERB	perf,intr masc,sing,past,indc
-по
+по	PREP
 времени	время	NOUN	inan,neut sing,gent
-с
+с	PREP
 внедрением	внедрение	NOUN	inan,neut sing,ablt
 современных	современный	ADJF	Qual plur,gent
 поролоновых	поролоновый	ADJF plur	gent
 матов	матовый	ADJS	Qual masc,sing
-.
+.	PNCT
 Все	весь	ADJF	Apro plur,nomn
 поселение	поселение	NOUN	inan,neut sing,nomn
 можно	можно	PRED	pres
 обойти	обойти	INFN	perf,tran
 неторопливым	неторопливый	ADJF	Qual masc,sing,ablt
-шагом
-за
+шагом	ADVB
+за	PREP
 10	10	NUMB	intg
 минут	минута	NOUN	inan,femn plur,gent
-.
+.	PNCT
 Стабильное	стабильный	ADJF	Qual neut,sing,nomn
 взаимодействие	взаимодействие	NOUN	inan,neut sing,nomn
-в
+в	PREP
 нефтегазовом	нефтегазовый	ADJF masc	sing,loct
 секторе	сектор	NOUN	inan,masc sing,loct
 является	являться	VERB	impf,intr sing,3per,pres,indc
 общим	общий	ADJF plur	datv
 вкладом	вклад	NOUN	inan,masc sing,ablt
 России	россия	NOUN	inan,femn,Sgtm,Geox sing,gent
-и
+и	CONJ
 Венгрии	венгрия	NOUN	inan,femn,Sgtm,Geox sing,gent
-в
+в	PREP
 обеспечение	обеспечение	NOUN	inan,neut sing,nomn
 энергобезопасности	энергобезопасность	NOUN	inan,femn sing,gent
 Европы	европа	NOUN	inan,femn,Sgtm,Geox sing,gent
-.
-При
+.	PNCT
+При	PREP
 этом	это	NPRO	neut sing,loct
 работа	работа	NOUN	inan,femn sing,nomn
-над
+над	PREP
 реализаций	реализация	NOUN	inan,femn plur,gent
 проектов	проект	NOUN	inan,masc plur,gent
-жёстко
+жёстко	ADVB
 увязывалась	увязываться	VERB	impf,intr femn,sing,past,indc
-с
+с	PREP
 достижением	достижение	NOUN	inan,neut sing,ablt
-на
+на	PREP
 каждом	каждый	ADJF	Apro masc,sing,loct
 этапе	этап	NOUN	inan,masc sing,loct
 целевых	целевой	ADJF plur	gent
 показателей	показатель	NOUN	inan,masc plur,gent
-.
-Наверняка
+.	PNCT
+Наверняка	ADVB
 техника	техника	NOUN	inan,femn sing,nomn
 была	быть	VERB	impf,intr femn,sing,past,indc
-бы
-уже
-не
+бы	PRCL
+уже	ADVB
+не	PRCL
 та	тот	ADJF	Apro,Subx,Anph femn,sing,nomn
-.
+.	PNCT
 Я	я	NPRO	1per sing,nomn
 имею	иметь	VERB	impf,tran sing,1per,pres,indc
-в
+в	PREP
 виду	вид	NOUN	inan,masc sing,loc2
 наше	наш	ADJF	Apro neut,sing,nomn
 сотрудничество	сотрудничество	NOUN	inan,neut sing,accs
-в
+в	PREP
 сфере	сфера	NOUN	inan,femn sing,loct
 энергетики	энергетика	NOUN	inan,femn sing,gent
--
+-	PNCT
 первый	один	ADJF	Anum masc,sing,nomn
 блок	блок	NOUN	inan,masc sing,nomn
 Сангтудинской	сангтудинский	ADJF femn	sing,gent
 ГЭС	гэс	NOUN	inan,femn,Fixd,Orgn,Abbr sing,nomn
 станции	станция	NOUN	inan,femn sing,loct
 запущен	запустить	PRTS	perf,past,pssv masc,sing
-в
+в	PREP
 январе	январь	NOUN	inan,masc sing,loct
-.
-В
+.	PNCT
+В	PREP
 рамках	рамка	NOUN	inan,femn plur,loct
 национального	национальный	ADJF neut	sing,gent
 проекта	проект	NOUN	inan,masc sing,gent
@@ -346,52 +346,52 @@ Wordform_GS2	Lemma_GS2	POS_GS2	Gram_GS2
 смогли	смочь	VERB	perf,intr plur,past,indc
 пройти	пройти	INFN	perf,tran
 диспансеризацию	диспансеризация	NOUN	inan,femn sing,accs
-,
-а
+,	PNCT
+а	CONJ
 60	60	NUMB	intg
 миллионам	миллион	NOUN	inan,masc plur,datv
 были	быть	VERB	impf,intr plur,past,indc
 сделаны	сделать	PRTS	perf,past,pssv plur
 прививки	прививка	NOUN	inan,femn sing,gent
-.
+.	PNCT
 Оба	оба	NUMR masc	nomn
 работают	работать	VERB	impf,intr plur,3per,pres,indc
-на
+на	PREP
 влиятельную	влиятельный	ADJF	Qual femn,sing,accs
-и
+и	CONJ
 известную	известный	ADJF	Qual femn,sing,accs
 адвокатскую	адвокатский	ADJF femn	sing,accs
 контору	контора	NOUN	inan,femn sing,accs
-«Bullie
-Brake
-&
-Desmay»
-и
-успешно
+«Bullie	LATN
+Brake	LATN
+&	PNCT
+Desmay»	LATN
+и	CONJ
+успешно	ADVB
 продвигаются	продвигаться	VERB	impf,intr plur,3per,pres,indc
-по
+по	PREP
 служебной	служебный	ADJF	Qual femn,sing,gent
 лестнице	лестница	NOUN	inan,femn sing,datv
-.
+.	PNCT
 Некоторые	некоторый	ADJF	Apro plur,nomn
 люди	человек	NOUN	anim,masc plur,nomn
 испытывают	испытывать	VERB	impf,tran plur,3per,pres,indc
 панические	панический	ADJF plur	nomn
 атаки	атака	NOUN	inan,femn sing,gent
-,
+,	PNCT
 которые	который	ADJF	Apro,Subx,Anph plur,nomn
 характеризуются	характеризоваться	VERB	impf,intr plur,3per,pres,indc
-чрезвычайно
+чрезвычайно	ADVB
 сильным	сильный	ADJF	Qual plur,datv
 чувством	чувство	NOUN	inan,neut sing,ablt
 страха	страх	NOUN	inan,masc sing,gent
-.
+.	PNCT
 Они	они	NPRO	3per,Anph plur,nomn
-отнюдь
-не
+отнюдь	ADVB
+не	PRCL
 редки	редкий	ADJS	Qual plur
-.
-К
+.	PNCT
+К	PREP
 третьей	три	ADJF	Anum femn,sing,gent
 неделе	неделя	NOUN	inan,femn sing,loct
 пациенты	пациент	NOUN	anim,masc plur,nomn
@@ -399,47 +399,47 @@ Desmay»
 заметное	заметный	ADJF	Qual neut,sing,nomn
 улучшение	улучшение	NOUN	inan,neut sing,accs
 настроения	настроение	NOUN	inan,neut sing,gent
-в
+в	PREP
 отличие	отличие	NOUN	inan,neut sing,accs
-от
+от	PREP
 принимавших	принимать	PRTF	impf,tran,past,actv plur,gent
 плацебо	плацебо	NOUN	inan,neut,Fixd sing,nomn
-.
+.	PNCT
 Высокий	высокий	ADJF	Qual masc,sing,nomn
 уровень	уровень	NOUN	inan,masc sing,nomn
 эстрогена	эстроген	NOUN	inan,masc sing,gent
-и
+и	CONJ
 низкий	низкий	ADJF	Qual masc,sing,nomn
 прогестерона	прогестерон	NOUN	inan,masc sing,gent
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 привести	привести	INFN	perf,tran
-к
+к	PREP
 предменструальному	предменструальный	ADJF masc	sing,datv
 синдрому	синдром	NOUN	inan,masc sing,datv
-(
-ПМС
-)
-с
+(	PNCT
+ПМС	UNKN
+)	PNCT
+с	PREP
 цикличной	цикличный	ADJF	Qual femn,sing,gent
 депрессией	депрессия	NOUN	inan,femn sing,ablt
-и
+и	CONJ
 беспокойством	беспокойство	NOUN	inan,neut sing,ablt
-.
-Иногда
+.	PNCT
+Иногда	ADVB
 колебания	колебание	NOUN	inan,neut sing,gent
 настроения	настроение	NOUN	inan,neut sing,gent
-и
+и	CONJ
 депрессия	депрессия	NOUN	inan,femn sing,nomn
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 быть	быть	INFN	impf,intr
 результатом	результат	NOUN	inan,masc sing,ablt
-слишком
+слишком	ADVB
 большого	большой	ADJF	Qual neut,sing,gent
 стресса	стресс	NOUN	inan,masc sing,gent
-и
+и	CONJ
 истощения	истощение	NOUN	inan,neut sing,gent
 надпочечников	надпочечник	NOUN	inan,masc plur,gent
-.
+.	PNCT
 Первое	первое	NOUN	inan,neut sing,nomn
 описание	описание	NOUN	inan,neut sing,accs
 этого	это	NPRO	neut sing,gent
@@ -447,78 +447,78 @@ Desmay»
 семейства	семейство	NOUN	inan,neut sing,gent
 перечных	перечный	ADJF	Qual plur,gent
 появилось	появиться	VERB	perf,intr neut,sing,past,indc
-в
+в	PREP
 западных	западный	ADJF	Qual plur,gent
 странах	страна	NOUN	inan,femn plur,loct
-после
+после	PREP
 знаменитых	знаменитый	ADJF	Qual plur,gent
 рейдов	рейд	NOUN	inan,masc plur,gent
 капитана	капитан	NOUN	anim,masc sing,gent
 Джеймса	джеймс	NOUN	anim,masc,Name sing,gent
 Кука	кук	NOUN	anim,masc,Sgtm,Surn sing,gent
-в
+в	PREP
 Южные	южный	ADJF	Qual plur,nomn
 моря	море	NOUN	inan,neut sing,gent
-.
-Согласно
+.	PNCT
+Согласно	PREP
 данным	данные	NOUN	inan,GNdr,Pltm plur,datv
 Национального	национальный	ADJF neut	sing,gent
 аутистического	аутистический	ADJF masc	sing,gent
 общества	общество	NOUN	inan,neut sing,gent
 частота	частота	NOUN	inan,femn sing,nomn
 аутизма	аутизм	NOUN	inan,masc sing,gent
-сейчас
+сейчас	ADVB
 может	мочь	VERB	impf,intr sing,3per,pres,indc
 превышать	превышать	INFN	impf,tran
 1	1	NUMB	intg
 случай	случай	NOUN	inan,masc sing,nomn
-на
+на	PREP
 каждые	каждый	ADJF	Apro inan,plur,accs
 100	100	NUMB	intg
 детей	ребёнок	NOUN	anim,masc plur,gent
-.
+.	PNCT
 Конечная	конечный	ADJF	Qual femn,sing,nomn
 цель	цель	NOUN	inan,femn sing,nomn
 математики	математика	NOUN	inan,femn sing,gent
-—
-вообще
+—	PNCT
+вообще	ADVB
 избавиться	избавиться	INFN	perf,intr
-от
+от	PREP
 необходимости	необходимость	NOUN	inan,femn sing,loct
-о
+о	PREP
 чем-либо	что-либо	NPRO	neut sing,ablt
 думать	думать	INFN	impf,intr
-.
-В
+.	PNCT
+В	PREP
 том-то	тот-то	ADJF	Apro masc,sing,loct
-и
+и	CONJ
 дело	дело	NOUN	inan,neut sing,nomn
-,
-что
-,
-кроме
+,	PNCT
+что	CONJ
+,	PNCT
+кроме	PREP
 действительных	действительный	ADJF	Qual plur,loct
 чисел	число	NOUN	inan,neut plur,gent
-,
+,	PNCT
 достаточно	достаточно	ADVB	Prdx
 изобрести	изобрести	INFN	perf,tran
-только
+только	PRCL
 одно	один	ADJF	Apro neut,sing,accs
 число	число	NOUN	inan,neut sing,nomn
-—
+—	PNCT
 квадратный	квадратный	ADJF	Qual masc,sing,nomn
 корень	корень	NOUN	inan,masc sing,nomn
-из
-—1
-,
-после
+из	PREP
+—1	UNKN
+,	PNCT
+после	PREP
 этого	это	NPRO	neut sing,gent
 можно	можно	PRED	pres
 решить	решить	INFN	perf,tran
 любое	любой	ADJF	Apro neut,sing,accs
 алгебраическое	алгебраический	ADJF neut	sing,nomn
 уравнение	уравнение	NOUN	inan,neut sing,accs
-]
+]	PNCT
 Возможные	возможный	ADJF	Qual plur,nomn
 состояния	состояние	NOUN	inan,neut sing,gent
 электронов	электрон	NOUN	inan,masc plur,gent
@@ -526,482 +526,482 @@ Desmay»
 различными	различный	ADJF	Qual plur,ablt
 энергетическими	энергетический	ADJF plur	ablt
 подуровнями	подуровень	NOUN	inan,masc plur,ablt
-,
+,	PNCT
 которые	который	ADJF	Apro,Subx,Anph plur,nomn
 носят	носить	VERB	impf,tran plur,3per,pres,indc
 название	название	NOUN	inan,neut sing,nomn
 орбиталей	орбиталь	NOUN	inan,femn plur,gent
-.
+.	PNCT
 Указанный	указанный	ADJF	Qual masc,sing,nomn
-выше
+выше	ADVB
 вызов	вызов	NOUN	inan,masc sing,nomn
 функции	функция	NOUN	inan,femn sing,gent
 вернет	вернуть	VERB	perf,tran sing,3per,futr,indc
 все	весь	ADJF	Apro plur,nomn
-SNMP
+SNMP	LATN
 объекты	объект	NOUN	inan,masc plur,accs
-из
-SNMP
+из	PREP
+SNMP	LATN
 агента	агент	NOUN	inan,masc sing,gent
-,
+,	PNCT
 напущенного	напустить	PRTF	perf,tran,past,pssv masc,sing,gent
-на
+на	PREP
 локальном	локальный	ADJF	Qual masc,sing,loct
 хосте	хост	NOUN	inan,masc sing,loct
-.
+.	PNCT
 Эта	этот	ADJF	Apro,Subx,Anph femn,sing,nomn
 группа	группа	NOUN	inan,femn sing,nomn
 включает	включать	VERB	impf,tran sing,3per,pres,indc
 щелочные	щелочной	ADJF plur	nomn
 металлы	металл	NOUN	inan,masc plur,nomn
 натрий	натрий	NOUN	inan,masc sing,nomn
-(
-Na
-)
-и
+(	PNCT
+Na	LATN
+)	PNCT
+и	CONJ
 калий	калия	NOUN	anim,femn,Name plur,gent
-(
-К
-)
-,
+(	PNCT
+К	PREP
+)	PNCT
+,	PNCT
 щелочноземельные	щёлочноземельный	ADJF plur	nomn
 металлы	металл	NOUN	inan,masc plur,nomn
 магний	магний	NOUN	inan,masc sing,nomn
-(
-Мg
-)
-и
+(	PNCT
+Мg	UNKN
+)	PNCT
+и	CONJ
 кальций	кальций	NOUN	inan,masc sing,nomn
-(
-Са
-)
-.
-Это
-сразу
+(	PNCT
+Са	UNKN
+)	PNCT
+.	PNCT
+Это	PRCL
+сразу	ADVB
 говорит	говорить	VERB	impf,tran sing,3per,pres,indc
 нам	мы	NPRO	1per plur,datv
-,
-что
+,	PNCT
+что	CONJ
 такое	такой	ADJF	Apro neut,sing,nomn
 момент	момент	NOUN	inan,masc sing,accs
-количественно
-.
+количественно	ADVB
+.	PNCT
 Собачка	собачка	NOUN	inan,femn sing,nomn
 нужна	нужный	ADJS	Qual femn,sing
-к
+к	PREP
 празднику	праздник	NOUN	inan,masc sing,datv
-!
+!	PNCT
 Он	он	NPRO	masc,3per,Anph sing,nomn
 полагал	полагать	VERB	impf,tran masc,sing,past,indc
-,
-что
+,	PNCT
+что	CONJ
 римлян	римляна	NOUN	anim,femn,Name plur,gent
 сгубило	сгубить	VERB	perf,tran neut,sing,past,indc
 избыточное	избыточный	ADJF	Qual neut,sing,nomn
 честолюбие	честолюбие	NOUN	inan,neut sing,nomn
-.
-ЕНЛ-1
+.	PNCT
+ЕНЛ-1	UNKN
 получают	получать	VERB	impf,tran plur,3per,pres,indc
 общенациональные	общенациональный	ADJF plur	nomn
-и
+и	CONJ
 крупные	крупный	ADJF	Qual plur,nomn
 региональные	региональный	ADJF inan	plur,accs
 газеты	газета	NOUN	inan,femn sing,gent
-и
+и	CONJ
 телекомпании	телекомпания	NOUN	inan,femn sing,gent
-,
+,	PNCT
 агентства	агентство	NOUN	inan,neut sing,gent
-,
+,	PNCT
 иностранные	иностранный	ADJF plur	nomn
 дипломатические	дипломатический	ADJF plur	nomn
 представительства	представительство	NOUN	inan,neut sing,gent
-в
+в	PREP
 России	россия	NOUN	inan,femn,Sgtm,Geox sing,gent
-.
+.	PNCT
 Телевизионные	телевизионный	ADJF plur	nomn
 Web-технологии	web-технология	NOUN	inan,femn sing,gent
 развиваются	развиваться	VERB	impf,intr plur,3per,pres,indc
-в
+в	PREP
 нашей	наш	ADJF	Apro femn,sing,gent
 стране	страна	NOUN	inan,femn sing,loct
-с
+с	PREP
 некоторым	некоторые	NPRO plur	datv
 опозданием	опоздание	NOUN	inan,neut sing,ablt
-.
+.	PNCT
 Недели	неделя	NOUN	inan,femn sing,gent
-через
+через	PREP
 две-три	два-три	NUMR femn	nomn
-,
-не
-раньше
-.
+,	PNCT
+не	PRCL
+раньше	COMP
+.	PNCT
 Такой	такой	ADJF	Apro femn,sing,gent
 птицы	птица	NOUN	anim,femn plur,nomn
-не
+не	PRCL
 водилось	водиться	VERB	impf,intr neut,sing,past,indc
-в
+в	PREP
 здешних	здешний	ADJF	Qual plur,gent
 местах	место	NOUN	inan,neut plur,loct
-.
+.	PNCT
 Здесь	здесь	ADVB	Prdx
 он	он	NPRO	masc,3per,Anph sing,nomn
-не
+не	PRCL
 отказал	отказать	VERB	perf,tran masc,sing,past,indc
 себе	себя	NPRO	Anph sing,datv
-в
+в	PREP
 удовольствии	удовольствие	NOUN	inan,neut sing,loct
-заранее
-злорадно
+заранее	ADVB
+злорадно	ADVB
 вообразить	вообразить	INFN	perf,tran
-,
-как
+,	PNCT
+как	CONJ
 будет	быть	VERB	impf,intr sing,3per,futr,indc
 сходить	сходить	INFN	perf,intr
-со
+со	PREP Vpre
 сцены	сцена	NOUN	inan,femn sing,gent
 премьер	премьер	NOUN	anim,masc sing,nomn
 Борзых	борзый	ADJF	Qual plur,gent
-.
+.	PNCT
 Булькнуло	булькнуть	VERB	perf,intr neut,sing,past,indc
-,
+,	PNCT
 екнуло	ёкнуть	VERB	perf,intr neut,sing,past,indc
-,
+,	PNCT
 порскнуло	порскнуть	VERB	perf,intr neut,sing,past,indc
-,
+,	PNCT
 ахнуло	ахнуть	VERB	perf,tran neut,sing,past,indc
--
+-	PNCT
 лучше	хороший	COMP	Qual
 гляди	глядеть	VERB	impf,tran sing,impr,excl
-!
--
-сзади
-,
-наверху
-,
-вниз
+!	PNCT
+-	PNCT
+сзади	ADVB
+,	PNCT
+наверху	ADVB
+,	PNCT
+вниз	ADVB
 головой	голова	NOUN	inan,femn sing,ablt
-,
+,	PNCT
 пропало	пропасть	VERB	perf,intr neut,sing,past,indc
-,
+,	PNCT
 нету	нету	PRED	pres
-!
-И
-Пэт
+!	PNCT
+И	CONJ
+Пэт	UNKN
 выла	выть	VERB	impf,intr femn,sing,past,indc
-от
+от	PREP
 злости	злость	NOUN	inan,femn sing,gent
-:
+:	PNCT
 ее	она	NPRO	femn,3per,Anph sing,gent
 Грегори	грегори	NOUN	anim,masc,Sgtm,Fixd,Name sing,nomn
---
+--	PNCT
 ее	она	NPRO	femn,3per,Anph sing,gent
 лучезарный	лучезарный	ADJF	Qual masc,sing,nomn
 муж	муж	NOUN	anim,masc sing,nomn
---
+--	PNCT
 был	быть	VERB	impf,intr masc,sing,past,indc
-тоже
-во
+тоже	ADVB
+во	PREP Vpre
 власти	власть	NOUN	inan,femn sing,gent
 этого	это	NPRO	neut sing,gent
 всемогущего	всемогущий	ADJF	Qual masc,sing,gent
 микрооргазма	микрооргазм	NOUN	inan,masc sing,gent
-.
+.	PNCT
 Он	он	NPRO	masc,3per,Anph sing,nomn
 засыпал	засыпать	VERB	perf,tran masc,sing,past,indc
-,
+,	PNCT
 ухватившись	ухватиться	GRND	perf,intr past,V-sh
-за
+за	PREP
 ее	она	NPRO	femn,3per,Anph sing,gent
 пальцы	палец	NOUN	inan,masc plur,nomn
-,
-и
-,
+,	PNCT
+и	CONJ
+,	PNCT
 оставляя	оставлять	GRND	impf,tran pres
 его	он	NPRO	masc,3per,Anph sing,accs
-,
+,	PNCT
 надо	надо	PRED	pres
 было	быть	VERB	impf,intr neut,sing,past,indc
-с
+с	PREP
 величайшей	великий	ADJF	Supr femn,sing,gent
 осторожностью	осторожность	NOUN	inan,femn sing,ablt
 высвобождать	высвобождать	INFN	impf,tran
 руку	рука	NOUN	inan,femn sing,accs
-,
-чтобы
+,	PNCT
+чтобы	CONJ
 он	он	NPRO	masc,3per,Anph sing,nomn
-не
+не	PRCL
 проснулся	проснуться	VERB	perf,intr masc,sing,past,indc
-с
+с	PREP
 криком	крик	NOUN	inan,masc sing,ablt
 ужаса	ужас	NOUN	inan,masc sing,gent
-.
---
+.	PNCT
+--	PNCT
 Хотел	хотеть	VERB	impf,tran masc,sing,past,indc
-бы
+бы	PRCL
 добавить	добавить	INFN	perf,tran
 разумное	разумный	ADJF	Qual neut,sing,nomn
-:
-как
+:	PNCT
+как	CONJ
 может	мочь	VERB	impf,intr sing,3per,pres,indc
 инженер	инженер	NOUN	anim,masc sing,nomn
 что-нибудь	что-нибудь	NPRO	neut sing,accs
 портить	портить	INFN	impf,tran
-?
-Не
+?	PNCT
+Не	PRCL
 сотвори	сотворить	VERB	perf,tran sing,impr,excl
 себе	себя	NPRO	Anph sing,datv
 кумира	кумир	NOUN	anim,masc sing,gent
-,
-Но
-лишь
+,	PNCT
+Но	CONJ
+лишь	PRCL
 люби	любить	VERB	impf,tran sing,impr,excl
-,
-как
+,	PNCT
+как	CONJ
 Я	я	NPRO	1per sing,nomn
 люблю	любить	VERB	impf,tran sing,1per,pres,indc
---
-В
+--	PNCT
+В	PREP
 твоем	твой	ADJF	Apro masc,sing,loct
 подобье	подобие	NOUN	inan,neut sing,nomn,V-be
---
+--	PNCT
 Образ	образ	NOUN	inan,masc sing,nomn
 Мира	мир	NOUN	inan,masc sing,gent
-,
-И
-не
+,	PNCT
+И	CONJ
+не	PRCL
 скорби	скорбь	NOUN	inan,femn sing,gent
-,
-как
+,	PNCT
+как	CONJ
 Я	я	NPRO	1per sing,nomn
 скорблю	скорбеть	VERB	impf,intr sing,1per,pres,indc
-.
+.	PNCT
 Я	я	NPRO	1per sing,nomn
 заставил	заставить	VERB	perf,tran masc,sing,past,indc
 ее	она	NPRO	femn,3per,Anph sing,gent
 повторить	повторить	INFN	perf,tran
 задание	задание	NOUN	inan,neut sing,nomn
-.
+.	PNCT
 Тут	тут	ADVB	Dmns
-на
+на	PREP
 кухню	кухня	NOUN	inan,femn sing,accs
 явилась	явиться	VERB	perf,intr femn,sing,past,indc
 Майка	майк	NOUN	anim,masc,Name sing,gent
-.
---
-А
+.	PNCT
+--	PNCT
+А	CONJ
 вы	вы	NPRO	2per plur,nomn
 разбудите	разбудить	VERB	perf,tran plur,2per,futr,indc
 нас	мы	NPRO	1per plur,gent
-,
-если
+,	PNCT
+если	CONJ
 новый	новый	ADJF	Qual inan,masc,sing,accs
 цыпленок	цыплёнок	NOUN	anim,masc sing,nomn
 выведется	вывестись	VERB	perf,intr sing,3per,futr,indc
-?
-Но
-на
+?	PNCT
+Но	CONJ
+на	PREP
 этот	этот	ADJF	Apro,Subx,Anph inan,masc,sing,accs
 раз	раз	NOUN	inan,masc sing,accs
 его	он	NPRO	masc,3per,Anph sing,accs
-совсем
-не
+совсем	ADVB
+не	PRCL
 было	быть	VERB	impf,intr neut,sing,past,indc
-.
---
+.	PNCT
+--	PNCT
 Тартасов	тартас	NOUN	anim,masc plur,gent
 хитрец	хитрец	NOUN	anim,masc sing,nomn
-.
-Как
+.	PNCT
+Как	CONJ
 все	весь	ADJF	Apro plur,nomn
 писатели	писатель	NOUN	anim,masc plur,nomn
-.
-.
-.
+.	PNCT
+.	PNCT
+.	PNCT
 Таков	таков	ADJS	Apro masc,sing
 их	они	NPRO	3per,Anph plur,gent
 удел	удел	NOUN	inan,masc sing,nomn
-.
+.	PNCT
 Стояли	стоять	VERB	impf,intr plur,past,indc
-в
+в	PREP
 кружок	кружок	NOUN	inan,masc sing,nomn
-и
-по-честному
+и	CONJ
+по-честному	ADVB
 рассуждали	рассуждать	VERB	impf,intr plur,past,indc
-.
+.	PNCT
 Небо	небо	NOUN	inan,neut sing,nomn
-,
-в
+,	PNCT
+в	PREP
 которое	который	ADJF	Apro,Subx,Anph neut,sing,nomn
 можно	можно	PRED	pres
 глядеть	глядеть	INFN	impf,tran
-.
-.
-.
+.	PNCT
+.	PNCT
+.	PNCT
 Задрав	задрать	GRND	perf,tran past
 голову	голова	NOUN	inan,femn sing,accs
-.
-.
-.
+.	PNCT
+.	PNCT
+.	PNCT
 Идти	идти	INFN	impf,intr
-и
+и	CONJ
 думать	думать	INFN	impf,intr
-о
+о	PREP
 синеве	синева	NOUN	inan,femn,Sgtm sing,datv
-.
+.	PNCT
 Внеконфессиональное	внеконфессиональный	ADJF neut	sing,nomn
 государство	государство	NOUN	inan,neut sing,nomn
 представляет	представлять	VERB	impf,tran sing,3per,pres,indc
 собой	себя	NPRO	Anph sing,ablt
 государство	государство	NOUN	inan,neut sing,nomn
-,
+,	PNCT
 которое	который	ADJF	Apro,Subx,Anph neut,sing,nomn
-сознательно
+сознательно	ADVB
 отстраняет	отстранять	VERB	impf,tran sing,3per,pres,indc
 себя	себя	NPRO	Anph sing,accs
-от
-всего
-,
-что
+от	PREP
+всего	ADVB
+,	PNCT
+что	CONJ
 происходит	происходить	VERB	impf,intr sing,3per,pres,indc
-в
+в	PREP
 лоне	лоно	NOUN	inan,neut sing,loct
 религии	религия	NOUN	inan,femn sing,datv
-,
+,	PNCT
 позволяя	позволять	GRND	impf,tran pres
 решать	решать	INFN	impf,tran
 эти	этот	ADJF	Apro,Subx,Anph plur,nomn
 вопросы	вопрос	NOUN	inan,masc plur,accs
 гражданскому	гражданский	ADJF masc	sing,datv
 обществу	общество	NOUN	inan,neut sing,datv
-.
+.	PNCT
 Неуведомление	неуведомление	NOUN	inan,neut sing,accs
-или
+или	CONJ
 несвоевременное	несвоевременный	ADJF neut	sing,nomn
 уведомление	уведомление	NOUN	inan,neut sing,accs
-об
+об	PREP Vpre
 указанных	указанный	ADJF	Qual plur,gent
 обстоятельствах	обстоятельство	NOUN	inan,neut plur,loct
 лишает	лишать	VERB	impf,tran sing,3per,pres,indc
 Стороны	сторона	NOUN	inan,femn sing,gent
 права	право	NOUN	inan,neut sing,gent
 ссылаться	ссылаться	INFN	impf,intr
-на
+на	PREP
 любые	любой	ADJF	Apro plur,nomn
-из
+из	PREP
 этих	этот	ADJF	Apro,Subx,Anph plur,gent
 обстоятельств	обстоятельство	NOUN	inan,neut plur,gent
-и
-не
+и	CONJ
+не	PRCL
 освобождает	освобождать	VERB	impf,tran sing,3per,pres,indc
-от
+от	PREP
 ответственности	ответственность	NOUN	inan,femn sing,datv
-по
+по	PREP
 настоящему	настоящий	ADJF masc	sing,datv
 Договору	договор	NOUN	inan,masc sing,datv
-.
+.	PNCT
 Президиум	президиум	NOUN	inan,masc sing,nomn
 Высшего	высокий	ADJF	Supr,Qual neut,sing,gent
 Арбитражного	арбитражный	ADJF masc	sing,gent
 Суда	суд	NOUN	inan,masc sing,gent
 РФ	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox sing,gent
-в
+в	PREP
 информационном	информационный	ADJF neut	sing,loct
 письме	письмо	NOUN	inan,neut sing,loct
-от
+от	PREP
 29	29	NUMB	intg
 сентября	сентябрь	NOUN	inan,masc sing,gent
 1999	1999	NUMB	intg
 г	год	NOUN	inan,masc,Fixd,Abbr sing,nomn
-.
-№
+.	PNCT
+№	UNKN
 48	48	NUMB	intg
-"
-О
+"	PNCT
+О	PREP
 некоторых	некоторый	ADJF	Apro plur,loct
 вопросах	вопрос	NOUN	inan,masc plur,loct
 судебной	судебный	ADJF	Qual femn,sing,gent
 практики	практика	NOUN	inan,femn sing,gent
-,
+,	PNCT
 возникающих	возникать	PRTF	impf,intr,pres,actv plur,gent
-при
+при	PREP
 рассмотрении	рассмотрение	NOUN	inan,neut sing,loct
 споров	споровый	ADJS	Qual masc,sing
-,
+,	PNCT
 связанных	связанный	ADJF	Qual plur,gent
-с
+с	PREP
 договорами	договор	NOUN	inan,masc plur,ablt
-на
+на	PREP
 оказание	оказание	NOUN	inan,neut sing,accs
 правовых	правовой	ADJF plur	gent
 услуг	услуга	NOUN	inan,femn plur,gent
-"
-,
+"	PNCT
+,	PNCT
 отметил	отметить	VERB	perf,tran masc,sing,past,indc
-,
-что
-не
+,	PNCT
+что	CONJ
+не	PRCL
 подлежат	подлежать	VERB	impf,intr plur,3per,pres,indc
 удовлетворению	удовлетворение	NOUN	inan,neut sing,datv
 требования	требование	NOUN	inan,neut sing,gent
 исполнителя	исполнитель	NOUN	anim,masc sing,gent
-о
+о	PREP
 выплате	выплата	NOUN	inan,femn sing,datv
 вознаграждения	вознаграждение	NOUN	inan,neut sing,gent
-,
-если
+,	PNCT
+если	CONJ
 истец	истец	NOUN	anim,masc sing,nomn
 обосновывает	обосновывать	VERB	impf,tran sing,3per,pres,indc
 их	они	NPRO	3per,Anph plur,gent
 условием	условие	NOUN	inan,neut sing,ablt
 договора	договор	NOUN	inan,masc sing,gent
-,
+,	PNCT
 ставящим	ставить	PRTF	impf,tran,pres,actv masc,sing,ablt
 размер	размер	NOUN	inan,masc sing,nomn
 оплаты	оплата	NOUN	inan,femn sing,gent
 услуг	услуга	NOUN	inan,femn plur,gent
-в
+в	PREP
 зависимость	зависимость	NOUN	inan,femn sing,nomn
-от
+от	PREP
 решения	решение	NOUN	inan,neut sing,gent
 суда	суд	NOUN	inan,masc sing,gent
-или
+или	CONJ
 государственного	государственный	ADJF neut	sing,gent
 органа	орган	NOUN	inan,masc sing,gent
-,
+,	PNCT
 которое	который	ADJF	Apro,Subx,Anph neut,sing,nomn
 будет	быть	VERB	impf,intr sing,3per,futr,indc
 принято	принять	PRTS	perf,past,pssv neut,sing
-в
+в	PREP
 будущем	будущее	NOUN	inan,neut sing,loct
-.
-После
+.	PNCT
+После	PREP
 произнесения	произнесение	NOUN	inan,neut sing,gent
 речей	речь	NOUN	inan,femn plur,gent
 всеми	весь	ADJF	Apro plur,ablt
 лицами	лицо	NOUN	anim,neut plur,ablt
-,
+,	PNCT
 участвующими	участвовать	PRTF	impf,intr,pres,actv plur,ablt
-в
+в	PREP
 деле	дело	NOUN	inan,neut sing,loct
-,
+,	PNCT
 их	они	NPRO	3per,Anph plur,gent
 представителями	представитель	NOUN	anim,masc plur,ablt
 они	они	NPRO	3per,Anph plur,nomn
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 выступить	выступить	INFN	perf,intr
-с
+с	PREP
 репликами	реплика	NOUN	inan,femn plur,ablt
-в
+в	PREP
 связи	связь	NOUN	inan,femn sing,loc2
-со
+со	PREP Vpre
 сказанным	сказать	PRTF	perf,tran,past,pssv masc,sing,ablt
-.
+.	PNCT
 Протокол	протокол	NOUN	inan,masc sing,accs
 судебного	судебный	ADJF	Qual neut,sing,gent
 заседания	заседание	NOUN	inan,neut sing,gent
-или
+или	CONJ
 совершенного	совершенный	ADJF	Qual masc,sing,gent
-вне
+вне	PREP
 судебного	судебный	ADJF	Qual neut,sing,gent
 заседания	заседание	NOUN	inan,neut sing,gent
 отдельного	отдельный	ADJF	Qual neut,sing,gent
@@ -1012,52 +1012,52 @@ Web-технологии	web-технология	NOUN	inan,femn sing,gent
 все	весь	ADJF	Apro plur,nomn
 существенные	существенный	ADJF	Qual plur,nomn
 сведения	сведение	NOUN	inan,neut sing,gent
-о
+о	PREP
 разбирательстве	разбирательство	NOUN	inan,neut sing,loct
 дела	дело	NOUN	inan,neut sing,gent
-или
+или	CONJ
 совершении	совершение	NOUN	inan,neut sing,loct
 отдельного	отдельный	ADJF	Qual neut,sing,gent
 процессуального	процессуальный	ADJF neut	sing,gent
 действия	действие	NOUN	inan,neut sing,gent
-.
+.	PNCT
 Лицо	лицо	NOUN	inan,neut sing,nomn
-,
+,	PNCT
 представляющее	представлять	PRTF	impf,tran,pres,actv neut,sing,nomn
-аудио-
-и
-(
-или
-)
+аудио-	UNKN
+и	CONJ
+(	PNCT
+или	CONJ
+)	PNCT
 видеозаписи	видеозапись	NOUN	inan,femn sing,gent
-на
+на	PREP
 электронном	электронный	ADJF masc	sing,loct
-или
+или	CONJ
 ином	иной	ADJF	Apro neut,sing,loct
 носителе	носитель	NOUN	inan,masc sing,loct
-либо
+либо	CONJ
 ходатайствующее	ходатайствовать	PRTF	impf,intr,pres,actv neut,sing,nomn
-об
+об	PREP Vpre
 их	они	NPRO	3per,Anph plur,gent
 истребовании	истребование	NOUN	inan,neut sing,loct
-,
+,	PNCT
 обязано	обязать	PRTS	perf,past,pssv neut,sing
 указать	указать	INFN	perf,tran
-,
-когда
-,
+,	PNCT
+когда	CONJ
+,	PNCT
 кем	кто	NPRO	masc sing,ablt
-и
-в
+и	CONJ
+в	PREP
 каких	какой	ADJF	Apro plur,loct
 условиях	условие	NOUN	inan,neut plur,loct
 осуществлялись	осуществляться	VERB	impf,intr plur,past,indc
 записи	запись	NOUN	inan,femn sing,gent
-.
+.	PNCT
 Решения	решение	NOUN	inan,neut sing,gent
 нижестоящей	нижестоящий	ADJF femn	sing,gent
 комиссии	комиссия	NOUN	inan,femn sing,gent
-по
+по	PREP
 проведению	проведение	NOUN	inan,neut sing,datv
 референдума	референдум	NOUN	inan,masc sing,gent
 Российской	российский	ADJF femn	sing,gent
@@ -1065,8 +1065,8 @@ Web-технологии	web-технология	NOUN	inan,femn sing,gent
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 быть	быть	INFN	impf,intr
 отменены	отменить	PRTS	perf,past,pssv plur
-,
-а
+,	PNCT
+а	CONJ
 ее	она	NPRO	femn,3per,Anph sing,gent
 действия	действие	NOUN	inan,neut sing,gent
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
@@ -1074,611 +1074,611 @@ Web-технологии	web-технология	NOUN	inan,femn sing,gent
 приостановлены	приостановить	PRTS	perf,past,pssv plur
 вышестоящей	вышестоящий	ADJF femn	sing,gent
 комиссией	комиссия	NOUN	inan,femn sing,ablt
-по
+по	PREP
 проведению	проведение	NOUN	inan,neut sing,datv
 референдума	референдум	NOUN	inan,masc sing,gent
 Российской	российский	ADJF femn	sing,gent
 Федерации	федерация	NOUN	inan,femn sing,gent
-.
+.	PNCT
 Решение	решение	NOUN	inan,neut sing,accs
-,
+,	PNCT
 принятое	принять	PRTF	perf,tran,past,pssv neut,sing,nomn
-на
+на	PREP
 референдуме	референдум	NOUN	inan,masc sing,loct
 Российской	российский	ADJF femn	sing,gent
 Федерации	федерация	NOUN	inan,femn sing,gent
-,
+,	PNCT
 является	являться	VERB	impf,intr sing,3per,pres,indc
 общеобязательным	общеобязательный	ADJF masc	sing,ablt
-и
-не
+и	CONJ
+не	PRCL
 нуждается	нуждаться	VERB	impf,intr sing,3per,pres,indc
-в
+в	PREP
 дополнительном	дополнительный	ADJF neut	sing,loct
 утверждении	утверждение	NOUN	inan,neut sing,loct
-.
+.	PNCT
 Статья	статья	NOUN	inan,femn sing,nomn
 86	86	NUMB	intg
-.
+.	PNCT
 3	3	NUMB	intg
-.
+.	PNCT
 3	3	NUMB	intg
-.
+.	PNCT
 Обособленные	обособленный	ADJF plur	nomn
 водные	водный	ADJF	Qual plur,nomn
 объекты	объект	NOUN	inan,masc plur,accs
-,
+,	PNCT
 находящиеся	находиться	PRTF	impf,intr,pres,actv plur,nomn
-в
+в	PREP
 собственности	собственность	NOUN	inan,femn sing,gent
 граждан	гражданин	NOUN	anim,masc plur,gent
-или
+или	CONJ
 юридических	юридический	ADJF plur	gent
 лиц	лицо	NOUN	anim,neut plur,accs
-,
-в
+,	PNCT
+в	PREP
 установленном	установленный	ADJF masc	sing,loct
 порядке	порядок	NOUN	inan,masc sing,loct
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 использоваться	использоваться	INFN	impf,intr
-как
+как	CONJ
 водные	водный	ADJF	Qual plur,nomn
 объекты	объект	NOUN	inan,masc plur,accs
 общего	общий	ADJF neut	sing,gent
 пользования	пользование	NOUN	inan,neut sing,gent
-только
-при
+только	PRCL
+при	PREP
 условиях	условие	NOUN	inan,neut plur,loct
 регистрации	регистрация	NOUN	inan,femn sing,gent
 данного	данный	ADJF	Apro masc,sing,gent
 ограничения	ограничение	NOUN	inan,neut sing,gent
 права	право	NOUN	inan,neut sing,gent
 собственности	собственность	NOUN	inan,femn sing,gent
-на
+на	PREP
 обособленные	обособленный	ADJF plur	nomn
 водные	водный	ADJF	Qual plur,nomn
 объекты	объект	NOUN	inan,masc plur,accs
-в
+в	PREP
 едином	единый	ADJF	Qual masc,sing,loct
 государственном	государственный	ADJF masc	sing,loct
 реестре	реестр	NOUN	inan,masc sing,loct
-и
+и	CONJ
 выплаты	выплата	NOUN	inan,femn sing,gent
 вознаграждения	вознаграждение	NOUN	inan,neut sing,gent
 собственнику	собственник	NOUN	anim,masc sing,datv
-.
+.	PNCT
 Государственный	государственный	ADJF masc	sing,nomn
 мониторинг	мониторинг	NOUN	inan,masc sing,nomn
 водных	водный	ADJF	Qual plur,gent
 объектов	объект	NOUN	inan,masc plur,gent
 ведется	вестись	VERB	impf,intr sing,3per,pres,indc,Impx
-специально
+специально	ADVB
 уполномоченным	уполномоченный	ADJF masc	sing,ablt
 государственным	государственный	ADJF plur	datv
 органом	орган	NOUN	inan,masc sing,ablt
 управления	управление	NOUN	inan,neut sing,gent
 использованием	использование	NOUN	inan,neut sing,ablt
-и
+и	CONJ
 охраной	охрана	NOUN	inan,femn sing,ablt
 водного	водный	ADJF	Qual neut,sing,gent
 фонда	фонд	NOUN	inan,masc sing,gent
 совместно	совместно	ADVB	Prdx
-со
-специально
+со	PREP Vpre
+специально	ADVB
 уполномоченными	уполномоченный	ADJF plur	ablt
 государственными	государственный	ADJF plur	ablt
 органами	орган	NOUN	inan,masc plur,ablt
-в
+в	PREP
 области	область	NOUN	inan,femn sing,loct
 охраны	охрана	NOUN	inan,femn sing,gent
 окружающей	окружающий	ADJF femn	sing,gent
 природной	природный	ADJF	Qual femn,sing,gent
 среды	среда	NOUN	inan,femn sing,gent
-,
-с
+,	PNCT
+с	PREP
 государственным	государственный	ADJF plur	datv
 органом	орган	NOUN	inan,masc sing,ablt
 управления	управление	NOUN	inan,neut sing,gent
-в
+в	PREP
 области	область	NOUN	inan,femn sing,loct
 гидрометеорологии	гидрометеорология	NOUN	inan,femn sing,gent
-и
+и	CONJ
 мониторинга	мониторинг	NOUN	inan,masc sing,gent
 окружающей	окружающий	ADJF femn	sing,gent
 среды	среда	NOUN	inan,femn sing,gent
-(
-по
+(	PNCT
+по	PREP
 поверхностным	поверхностный	ADJF	Qual masc,sing,ablt
 водным	водный	ADJF	Qual masc,sing,ablt
 объектам	объект	NOUN	inan,masc plur,datv
-)
-и
+)	PNCT
+и	CONJ
 государственным	государственный	ADJF plur	datv
 органом	орган	NOUN	inan,masc sing,ablt
 управления	управление	NOUN	inan,neut sing,gent
 использованием	использование	NOUN	inan,neut sing,ablt
-и
+и	CONJ
 охраной	охрана	NOUN	inan,femn sing,ablt
 недр	недра	NOUN	inan,GNdr,Pltm plur,gent
-(
-по
+(	PNCT
+по	PREP
 подземным	подземный	ADJF	Qual masc,sing,ablt
 водным	водный	ADJF	Qual masc,sing,ablt
 объектам	объект	NOUN	inan,masc plur,datv
-)
-.
+)	PNCT
+.	PNCT
 Фиктивное	фиктивный	ADJF	Qual neut,sing,nomn
-или
+или	CONJ
 преднамеренное	преднамеренный	ADJF neut	sing,nomn
 банкротство	банкротство	NOUN	inan,neut sing,nomn
 Осуществление	осуществление	NOUN	inan,neut sing,nomn
 дисквалифицированным	дисквалифицировать	PRTF	perf,tran,past,pssv masc,sing,ablt
 лицом	лицо	NOUN	inan,neut sing,ablt
-в
+в	PREP
 течение	течение	NOUN	inan,neut sing,accs
 срока	срок	NOUN	inan,masc sing,gent
 дисквалификации	дисквалификация	NOUN	inan,femn sing,gent
 деятельности	деятельность	NOUN	inan,femn sing,gent
-по
+по	PREP
 управлению	управление	NOUN	inan,neut sing,datv
 юридическим	юридический	ADJF plur	datv
 лицом	лицо	NOUN	inan,neut sing,ablt
---
+--	PNCT
 влечет	влечь	VERB	impf,tran sing,3per,pres,indc
 наложение	наложение	NOUN	inan,neut sing,accs
 административного	административный	ADJF neut	sing,gent
 штрафа	штраф	NOUN	inan,masc sing,gent
-в
+в	PREP
 размере	размер	NOUN	inan,masc sing,loct
-пятидесяти
+пятидесяти	NUMR gent
 минимальных	минимальный	ADJF plur	gent
 размеров	размер	NOUN	inan,masc plur,gent
 оплаты	оплата	NOUN	inan,femn sing,gent
 труда	труд	NOUN	inan,masc sing,gent
-.
-В
+.	PNCT
+В	PREP
 ИСПАНИИ	испания	NOUN	inan,femn,Sgtm,Geox sing,gent
 Я	я	NPRO	1per sing,nomn
 ДУМАЮ	думать	VERB	impf,intr sing,1per,pres,indc
-У
+У	PREP
 УНИКАХИ	уникахи	NOUN	inan,masc,Sgtm,Fixd,Geox sing,nomn
-,
+,	PNCT
 ТАУ	тау	NOUN	inan,masc,Sgtm,Fixd,Geox sing,nomn
-И
+И	CONJ
 БАРСЫ	барс	NOUN	anim,masc plur,nomn
 ШАНСЫ	шанс	NOUN	inan,masc plur,nomn
 ОДИНАКОВЫЕ	одинаковый	ADJF	Qual plur,nomn
--
-НО
+-	PNCT
+НО	CONJ
 СТАВЛЮ	ставить	VERB	impf,tran sing,1per,pres,indc
-НА
+НА	PREP
 УНИКАХУ	уникаха	NOUN	anim,masc,Name sing,accs
--
+-	PNCT
 БРАУН	браун	NOUN	anim,masc,Sgtm,Surn sing,nomn
-ВПЕРЁД
-!
-!
-!
+ВПЕРЁД	ADVB
+!	PNCT
+!	PNCT
+!	PNCT
 Чувство	чувство	NOUN	inan,neut sing,accs
 ностальгии	ностальгия	NOUN	inan,femn sing,gent
 охватило	охватить	VERB	perf,tran neut,sing,past,indc
-с
+с	PREP
 особенной	особенный	ADJF	Qual femn,sing,gent
-силой
-.
-.
-.
+силой	ADVB
+.	PNCT
+.	PNCT
+.	PNCT
 скачал	скачать	VERB	perf,tran masc,sing,past,indc
 эмулятор	эмулятор	NOUN	inan,masc sing,nomn
 Денди	денди	NOUN	anim,masc,Fixd sing,nomn
-и
+и	CONJ
 пяток	пятка	NOUN	inan,femn plur,gent
 диснеевских	диснеевский	ADJF plur	gent
 игр	игра	NOUN	inan,femn plur,gent
-.
-.
-.
+.	PNCT
+.	PNCT
+.	PNCT
 Плачу	плач	NOUN	inan,masc sing,datv
-от
+от	PREP
 умиления	умиление	NOUN	inan,neut sing,gent
-.
+.	PNCT
 СКАЖИ	сказать	VERB	perf,tran sing,impr,excl
 НАРКОТИКАМ	наркотик	NOUN	inan,masc plur,datv
 НЕТ	нет	PRED	pres
 Скажи	сказать	VERB	perf,tran sing,impr,excl
 наркотикам	наркотик	NOUN	inan,masc plur,datv
-:
+:	PNCT
 «Трям	«трь	NOUN	anim,masc plur,datv
-!
-»
+!	PNCT
+»	PNCT
 Скажи	сказать	VERB	perf,tran sing,impr,excl
 наркотикам	наркотик	NOUN	inan,masc plur,datv
-:
+:	PNCT
 «Чпок	«чпка	NOUN	inan,femn plur,gent
-!
-»
+!	PNCT
+»	PNCT
 Своди	сводить	VERB	perf,tran sing,impr,excl
 наркотики	наркотик	NOUN	inan,masc plur,nomn
-в
+в	PREP
 цирк	цирк	NOUN	inan,masc sing,nomn
-.
+.	PNCT
 Муж	муж	NOUN	anim,masc sing,nomn
 работает	работать	VERB	impf,intr sing,3per,pres,indc
-на
+на	PREP
 дому	дом	NOUN	inan,masc sing,datv
-(
+(	PNCT
 программер	программер	NOUN	anim,masc,Slng sing,nomn
-)
-,
-часто
+)	PNCT
+,	PNCT
+часто	ADVB
 выезжает	выезжать	VERB	impf,intr sing,3per,pres,indc
-по
+по	PREP
 делам	дело	NOUN	inan,neut plur,datv
-или
-просто
+или	CONJ
+просто	PRCL
 потусить	потусить	INFN	perf,tran
-.
-"
-Прежде
+.	PNCT
+"	PNCT
+Прежде	ADVB
 мы	мы	NPRO	1per plur,nomn
 оперировали	оперировать	VERB	perf,tran plur,past,indc
 категориями	категория	NOUN	inan,femn plur,ablt
 товаров	товар	NOUN	inan,masc plur,gent
-,
+,	PNCT
 которые	который	ADJF	Apro,Subx,Anph plur,nomn
 необходимо	необходимый	ADJS	Qual neut,sing
 продвигать	продвигать	INFN	impf,tran
-.
-Теперь
+.	PNCT
+Теперь	ADVB
 стремимся	стремиться	VERB	impf,intr plur,1per,pres,indc
 оперировать	оперировать	INFN	perf,tran
 финансовыми	финансовый	ADJF plur	ablt
 показателями	показатель	NOUN	inan,masc plur,ablt
-,
-чтобы
+,	PNCT
+чтобы	CONJ
 лучше	хороший	COMP	Qual
 видеть	видеть	INFN	impf,tran
 выгодность	выгодность	NOUN	inan,femn sing,accs
-и
+и	CONJ
 перспективность	перспективность	NOUN	inan,femn sing,nomn
 того	тот	ADJF	Apro,Subx,Anph neut,sing,gent
-или
+или	CONJ
 иного	иной	ADJF	Apro neut,sing,gent
 направления	направление	NOUN	inan,neut sing,gent
-.
+.	PNCT
 Мы	мы	NPRO	1per plur,nomn
-уже
+уже	ADVB
 выяснили	выяснить	VERB	perf,tran plur,past,indc
-,
-что
+,	PNCT
+что	CONJ
 некоторые	некоторый	ADJF	Apro plur,nomn
-из
+из	PREP
 них	они	NPRO	3per,Anph plur,gent,Af-p
-не
+не	PRCL
 настолько	настолько	ADVB	Dmns
 выгодны	выгодный	ADJS	Qual plur
-,
-как
+,	PNCT
+как	CONJ
 казалось	казалось	CONJ	Prnt
-раньше
-"
-,
+раньше	COMP
+"	PNCT
+,	PNCT
 пояснил	пояснить	VERB	perf,tran masc,sing,past,indc
 Краснов	краснов	NOUN	anim,masc,Sgtm,Surn sing,nomn
 новую	новый	ADJF	Qual femn,sing,accs
 стратегию	стратегия	NOUN	inan,femn sing,accs
-.
+.	PNCT
 Какими	какой	ADJF	Apro plur,ablt
 вы	вы	NPRO	2per plur,nomn
 видите	видеть	VERB	impf,tran plur,2per,pres,indc
 свои	свой	ADJF	Apro,Anph inan,plur,accs
 перспективы	перспектива	NOUN	inan,femn sing,gent
-в
+в	PREP
 этой	этот	ADJF	Apro,Subx,Anph femn,sing,gent
 области	область	NOUN	inan,femn sing,loct
-?
-В
+?	PNCT
+В	PREP
 двух	два	NUMR masc	gent
 72	72	NUMB	intg
--
+-	PNCT
 часовых	часовой	ADJF plur	gent
 сессиях	сессия	NOUN	inan,femn plur,loct
-InnovationJam
-,
+InnovationJam	LATN
+,	PNCT
 проведенных	провести	PRTF	perf,tran,past,pssv plur,gent
-по
-Internet
-,
+по	PREP
+Internet	LATN
+,	PNCT
 приняло	принять	VERB	perf,tran neut,sing,past,indc
 участие	участие	NOUN	inan,neut sing,accs
-около
+около	PREP
 105	105	NUMB	intg
 тыс	тысяча	NOUN	inan,femn,Fixd,Abbr sing,nomn
-.
+.	PNCT
 человек	человек	NOUN	anim,masc sing,nomn
-из
+из	PREP
 104	104	NUMB	intg
 стран	страна	NOUN	inan,femn plur,gent
-,
-в
+,	PNCT
+в	PREP
 том	тот	ADJF	Apro,Subx,Anph neut,sing,loct
 числе	число	NOUN	inan,neut sing,loct
 служащие	служащий	ADJF	Subx plur,nomn
-IBM
-,
+IBM	LATN
+,	PNCT
 члены	член	NOUN	inan,masc plur,accs
 их	они	NPRO	3per,Anph plur,gent
 семей	семья	NOUN	inan,femn plur,gent
-,
-а
-также
+,	PNCT
+а	CONJ
+также	CONJ
 сотрудники	сотрудник	NOUN	anim,masc plur,nomn
 университетов	университет	NOUN	inan,masc plur,gent
-,
+,	PNCT
 клиенты	клиент	NOUN	anim,masc plur,nomn
 корпорации	корпорация	NOUN	inan,femn sing,gent
-и
+и	CONJ
 ее	она	NPRO	femn,3per,Anph sing,gent
 бизнес-партнеры	бизнес-партнёр	NOUN	anim,masc plur,nomn
-.
+.	PNCT
 Особые	особый	ADJF plur	nomn
 экономические	экономический	ADJF plur	nomn
 зоны	зона	NOUN	inan,femn sing,gent
--
+-	PNCT
 новый	новый	ADJF	Qual inan,masc,sing,accs
 механизм	механизм	NOUN	inan,masc sing,nomn
 государственно-частного	государственно-частное	NOUN	inan,neut sing,gent
 партнерства	партнерство	NOUN	inan,neut sing,gent
-.
+.	PNCT
 Заставить	заставить	INFN	perf,tran
 все	весь	ADJF	Apro plur,nomn
-это
+это	PRCL
 работать	работать	INFN	impf,intr
-на
+на	PREP
 медном	медный	ADJF	Qual masc,sing,loct
 кабеле	кабель	NOUN	inan,masc sing,loct
 окажется	оказаться	VERB	perf,intr sing,3per,futr,indc
-еще
+еще	PRCL
 труднее	трудный	COMP	Qual
-,
-чем
-раньше
-,
-но
-и
+,	PNCT
+чем	CONJ
+раньше	COMP
+,	PNCT
+но	CONJ
+и	CONJ
 говорить	говорить	INFN	impf,tran
-о
+о	PREP
 невозможности	невозможность	NOUN	inan,femn sing,gent
 получения	получение	NOUN	inan,neut sing,gent
 подобных	подобный	ADJF	Subx,Qual plur,gent
 решений	решение	NOUN	inan,neut plur,gent
-пока
-преждевременно
-,
-поскольку
+пока	ADVB
+преждевременно	ADVB
+,	PNCT
+поскольку	CONJ
 технологии	технология	NOUN	inan,femn sing,gent
 совершенствуются	совершенствоваться	VERB	impf,intr plur,3per,pres,indc
-непрерывно
-.
-Вследствие
+непрерывно	ADVB
+.	PNCT
+Вследствие	PREP
 своей	свой	ADJF	Apro,Anph femn,sing,gent
 важности	важность	NOUN	inan,femn sing,gent
 деятельность	деятельность	NOUN	inan,femn sing,accs
 метрополитена	метрополитен	NOUN	inan,masc sing,gent
-жестко
+жестко	ADVB
 регламентирована	регламентировать	PRTS	impf,past,pssv femn,sing
 российским	российский	ADJF plur	datv
 законодательством	законодательство	NOUN	inan,neut sing,ablt
-.
+.	PNCT
 Она	она	NPRO	femn,3per,Anph sing,nomn
 была	быть	VERB	impf,intr femn,sing,past,indc
 представлена	представить	PRTS	perf,past,pssv femn,sing
-как
+как	CONJ
 оптимальное	оптимальный	ADJF neut	sing,nomn
 решение	решение	NOUN	inan,neut sing,accs
-для
+для	PREP
 небольших	небольшой	ADJF plur	gent
 центров	центр	NOUN	inan,masc plur,gent
 обработки	обработка	NOUN	inan,femn sing,gent
 данных	дать	PRTF	perf,tran,past,pssv plur,gent
-либо
-как
+либо	CONJ
+как	CONJ
 дополнение	дополнение	NOUN	inan,neut sing,accs
-к
-уже
+к	PREP
+уже	ADVB
 существующей	существующий	ADJF femn	sing,gent
 системе	система	NOUN	inan,femn sing,loct
 охлаждения	охлаждение	NOUN	inan,neut sing,gent
-,
-не
+,	PNCT
+не	PRCL
 изменяющее	изменять	PRTF	impf,intr,pres,actv neut,sing,nomn
 инфраструктуру	инфраструктура	NOUN	inan,femn sing,accs
-.
-По
+.	PNCT
+По	PREP
 словам	слово	NOUN	inan,neut plur,datv
 Кеоуэна	кеоуэн	NOUN	anim,masc,Sgtm,Surn sing,gent
-,
+,	PNCT
 производители	производитель	NOUN	anim,masc plur,nomn
 начнут	начать	VERB	perf,tran plur,3per,futr,indc
 продавать	продавать	INFN	impf,tran
 телевизоры	телевизор	NOUN	inan,masc plur,accs
-и
+и	CONJ
 телекоммуникационные	телекоммуникационный	ADJF plur	nomn
 устройства	устройство	NOUN	inan,neut sing,gent
-с
+с	PREP
 поддержкой	поддержка	NOUN	inan,femn sing,ablt
 технологии	технология	NOUN	inan,femn sing,gent
-UWB
-уже
-в
+UWB	LATN
+уже	ADVB
+в	PREP
 текущем	текущий	ADJF masc	sing,loct
 году	год	NOUN	inan,masc sing,loc2
-.
-При
+.	PNCT
+При	PREP
 этом	это	NPRO	neut sing,loct
 мы	мы	NPRO	1per plur,nomn
--
+-	PNCT
 глобальная	глобальный	ADJF	Qual femn,sing,nomn
 компания	компания	NOUN	inan,femn sing,nomn
-со
+со	PREP Vpre
 штаб-квартирой	штаб-квартира	NOUN	inan,femn sing,ablt
-в
+в	PREP
 США	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox plur,gent
-.
-На
+.	PNCT
+На	PREP
 глобальном	глобальный	ADJF	Qual masc,sing,loct
 уровне	уровень	NOUN	inan,masc sing,loct
-HP
-блестяще
+HP	LATN
+блестяще	ADVB
 справляется	справляться	VERB	impf,intr sing,3per,pres,indc
-со
+со	PREP Vpre
 снижением	снижение	NOUN	inan,neut sing,ablt
 операционных	операционный	ADJF plur	gent
 расходов	расход	NOUN	inan,masc plur,gent
-:
-на
+:	PNCT
+на	PREP
 ИТ	ит	NOUN	inan,GNdr,Pltm,Fixd,Abbr plur,nomn
-,
+,	PNCT
 помещения	помещение	NOUN	inan,neut sing,gent
-,
+,	PNCT
 управление	управление	NOUN	inan,neut sing,nomn
-.
-Кроме
+.	PNCT
+Кроме	PREP
 того	тот	ADJF	Apro,Subx,Anph neut,sing,gent
-,
-на
+,	PNCT
+на	PREP
 первую	один	ADJF	Anum femn,sing,accs
 половину	половина	NOUN	inan,femn sing,accs
 2007	2007	NUMB	intg
 года	год	NOUN	inan,masc sing,gent
-дополнительно
+дополнительно	ADVB
 запланировано	запланировать	PRTS	perf,past,pssv neut,sing
 получение	получение	NOUN	inan,neut sing,accs
 специализации	специализация	NOUN	inan,femn sing,gent
-Advanced
-Routing
-and
-Switching
-и
+Advanced	LATN
+Routing	LATN
+and	LATN
+Switching	LATN
+и	CONJ
 обновление	обновление	NOUN	inan,neut sing,nomn
-VPN
-Security
-Specialization
-до
+VPN	LATN
+Security	LATN
+Specialization	LATN
+до	PREP
 новой	новый	ADJF	Qual femn,sing,gent
 специализации	специализация	NOUN	inan,femn sing,gent
-Advanced
-Security
-,
-что
+Advanced	LATN
+Security	LATN
+,	PNCT
+что	CONJ
 будет	быть	VERB	impf,intr sing,3per,futr,indc
 соответствовать	соответствовать	INFN	impf,intr
 уровню	уровень	NOUN	inan,masc sing,datv
 требований	требование	NOUN	inan,neut plur,gent
-,
+,	PNCT
 предъявляемых	предъявлять	PRTF	impf,tran,pres,pssv plur,gent
-к
-"
+к	PREP
+"	PNCT
 Золотым	золотой	NOUN	inan,masc sing,ablt
-"
+"	PNCT
 партнерам	партнёр	NOUN	anim,masc plur,datv
-Cisco
-Systems
-.
+Cisco	LATN
+Systems	LATN
+.	PNCT
 Полиция	полиция	NOUN	inan,femn sing,nomn
 сообщила	сообщить	VERB	perf,tran femn,sing,past,indc
-,
-что
+,	PNCT
+что	CONJ
 самоубийца	самоубийца	NOUN	anim,femn,Ms-f sing,nomn
 тяжело	тяжело	ADVB	Prdx
 ранен	раненый	ADJS masc	sing
-,
-а
+,	PNCT
+а	CONJ
 его	он	NPRO	masc,3per,Anph sing,accs
 сосед	сосед	NOUN	anim,masc sing,nomn
-по
+по	PREP
 этажу	этаж	NOUN	inan,masc sing,datv
 погиб	погибнуть	VERB	perf,intr masc,sing,past,indc
-в
+в	PREP
 огне	огонь	NOUN	inan,masc sing,loct
-.
+.	PNCT
 Таким	такой	ADJF	Apro plur,datv
 образом	образ	NOUN	inan,masc sing,ablt
-,
+,	PNCT
 угрозы	угроза	NOUN	inan,femn sing,gent
-,
+,	PNCT
 нависшей	нависнуть	PRTF	perf,intr,past,actv femn,sing,gent
-над
+над	PREP
 знаменитым	знаменитый	ADJF	Qual masc,sing,ablt
 дворцом	дворец	NOUN	inan,masc sing,ablt
 Цвингер	цвингера	NOUN	anim,femn,Name plur,gent
-,
-в
+,	PNCT
+в	PREP
 котором	который	ADJF	Apro,Subx,Anph masc,sing,loct
 расположена	расположить	PRTS	perf,past,pssv femn,sing
 Дрезденская	дрезденский	ADJF femn	sing,nomn
 картинная	картинный	ADJF	Qual femn,sing,nomn
 галерея	галерея	NOUN	inan,femn sing,nomn
-,
+,	PNCT
 больше	большой	COMP	Qual
-не
+не	PRCL
 существует	существовать	VERB	impf,intr sing,3per,pres,indc
-.
-На
+.	PNCT
+На	PREP
 севере	север	NOUN	inan,masc sing,loct
 сектора	сектор	NOUN	inan,masc sing,gent
 Газа	газа	NOUN	inan,femn,Sgtm,Geox sing,nomn
 проходит	проходить	VERB	impf,tran sing,3per,pres,indc
 ожесточенная	ожесточённый	ADJF	Qual femn,sing,nomn
 перестрелка	перестрелка	NOUN	inan,femn sing,nomn
-между
+между	PREP
 израильскими	израильский	ADJF plur	ablt
 военнослужащими	военнослужащий	ADJF plur	ablt
-и
+и	CONJ
 палестинцами	палестинец	NOUN	anim,masc plur,ablt
 2002	2002	NUMB	intg
-/
+/	PNCT
 08	08	NUMB	intg
-/
+/	PNCT
 11	11	NUMB	intg
-/
-На
+/	PNCT
+На	PREP
 севере	север	NOUN	inan,masc sing,loct
 сектора	сектор	NOUN	inan,masc sing,gent
 Газа	газа	NOUN	inan,femn,Sgtm,Geox sing,nomn
-,
-вблизи
+,	PNCT
+вблизи	ADVB
 еврейского	еврейский	ADJF neut	sing,gent
 поселения	поселение	NOUN	inan,neut sing,gent
 Дугид	дугид	NOUN	anim,masc sing,nomn
-,
-в
+,	PNCT
+в	PREP
 настоящее	настоящее	NOUN	inan,neut sing,accs
 время	время	NOUN	inan,neut sing,accs
 проходит	проходить	VERB	impf,tran sing,3per,pres,indc
 ожесточенная	ожесточённый	ADJF	Qual femn,sing,nomn
 перестрелка	перестрелка	NOUN	inan,femn sing,nomn
-между
+между	PREP
 израильскими	израильский	ADJF plur	ablt
 военнослужащими	военнослужащий	ADJF plur	ablt
-и
+и	CONJ
 палестинцами	палестинец	NOUN	anim,masc plur,ablt
-.
+.	PNCT
 Склады	склад	NOUN	inan,masc plur,accs
 крупнейшей	крупный	ADJF	Supr,Qual femn,sing,ablt
-в
+в	PREP
 Благовещенске	благовещенск	NOUN	inan,masc,Geox sing,loct
 торговой	торговый	ADJF femn	sing,gent
 сети	сеть	NOUN	inan,femn sing,gent
-"
+"	PNCT
 Домострой	домострой	NOUN	inan,masc sing,nomn
-"
-почти
-полностью
+"	PNCT
+почти	ADVB
+полностью	ADVB
 сгорели	сгореть	VERB	perf,intr plur,past,indc
-в
+в	PREP
 субботу	суббота	NOUN	inan,femn sing,accs
-.
+.	PNCT
 Президентом	президент	NOUN	anim,masc sing,ablt
 может	мочь	VERB	impf,intr sing,3per,pres,indc
 быть	быть	INFN	impf,intr
@@ -1687,575 +1687,575 @@ Systems
 гражданин	гражданин	NOUN	anim,masc sing,nomn
 Нагорно-Карабахской	нагорно-карабахский	ADJF femn	sing,gent
 Республики	республика	NOUN	inan,femn sing,gent
-,
+,	PNCT
 достигший	достигнуть	PRTF	perf,tran,past,actv masc,sing,nomn
 35	35	NUMB	intg
 лет	год	NOUN	inan,masc plur,gent
-,
+,	PNCT
 обладающий	обладать	PRTF	impf,intr,pres,actv masc,sing,nomn
 избирательным	избирательный	ADJF	Qual plur,datv
 правом	право	NOUN	inan,neut sing,ablt
-и
-постоянно
-или
-преимущественно
+и	CONJ
+постоянно	ADVB
+или	CONJ
+преимущественно	ADVB
 проживающий	проживать	PRTF	impf,intr,pres,actv masc,sing,nomn
-в
+в	PREP
 НКР	нкр	NOUN	inan,femn,Sgtm,Fixd,Geox sing,nomn
-в
+в	PREP
 течение	течение	NOUN	inan,neut sing,accs
 последних	последний	ADJF plur	gent
 10	10	NUMB	intg
 лет	год	NOUN	inan,masc plur,gent
-.
-Для
+.	PNCT
+Для	PREP
 охраны	охрана	NOUN	inan,femn sing,gent
 задействованы	задействовать	PRTS	perf,past,pssv plur
 офицеры	офицер	NOUN	anim,masc plur,nomn
 Национальной	национальный	ADJF femn	sing,gent
 гвардии	гвардия	NOUN	inan,femn sing,gent
-,
+,	PNCT
 представители	представитель	NOUN	anim,masc plur,nomn
 служб	служба	NOUN	inan,femn plur,gent
 безопасности	безопасность	NOUN	inan,femn sing,gent
-и
+и	CONJ
 ВВС	ввс	NOUN	inan,GNdr,Pltm,Fixd,Orgn plur,gent
 США	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox plur,gent
-.
+.	PNCT
 Индекс	индекс	NOUN	inan,masc sing,accs
-"
+"	PNCT
 Нового	новое	NOUN	inan,neut sing,gent
 рынка	рынок	NOUN	inan,masc sing,gent
-"
+"	PNCT
 сопротивлялся	сопротивляться	VERB	impf,intr masc,sing,past,indc
 больше	большой	COMP	Qual
-.
+.	PNCT
 Потоки	поток	NOUN	inan,masc plur,accs
 дождя	дождь	NOUN	inan,masc sing,gent
 обрушились	обрушиться	VERB	perf,intr plur,past,indc
-в
+в	PREP
 воскресенье	воскресение	NOUN	inan,neut sing,nomn,V-be
-и
-на
+и	CONJ
+на	PREP
 Берлин	берлин	NOUN	inan,masc,Geox sing,accs
-,
-с
+,	PNCT
+с	PREP
 окружающей	окружающий	ADJF femn	sing,gent
 его	он	NPRO	masc,3per,Anph sing,accs
 землей	земля	NOUN	inan,femn sing,ablt
 Бранденбург	бранденбург	NOUN	inan,masc,Geox sing,nomn
-,
+,	PNCT
 где	где	ADVB	Ques
 ситуация	ситуация	NOUN	inan,femn sing,nomn
-,
+,	PNCT
 конечно	конечно	CONJ	Prnt
-,
-не
+,	PNCT
+не	PRCL
 такая	такой	ADJF	Apro femn,sing,nomn
 сложная	сложный	ADJF	Qual femn,sing,nomn
-,
-как
-в
+,	PNCT
+как	CONJ
+в	PREP
 других	другой	ADJF	Apro,Subx plur,gent
 регионах	регион	NOUN	inan,masc plur,loct
-,
+,	PNCT
 однако	однако	CONJ	Prnt
-в
+в	PREP
 течение	течение	NOUN	inan,neut sing,accs
 сегодняшнего	сегодняшний	ADJF neut	sing,gent
 дня	день	NOUN	inan,masc sing,gent
-и
+и	CONJ
 здесь	здесь	ADVB	Prdx
 зарегистрировано	зарегистрировать	PRTS	perf,past,pssv neut,sing
 выпадение	выпадение	NOUN	inan,neut sing,nomn
-почти
+почти	ADVB
 50	50	NUMB	intg
 литров	литр	NOUN	inan,masc plur,gent
 осадков	осадок	NOUN	inan,masc plur,gent
-на
+на	PREP
 1	1	NUMB	intg
-кв
+кв	UNKN
 метр	метр	NOUN	inan,masc sing,accs
 площади	площадь	NOUN	inan,femn sing,loct
-.
+.	PNCT
 Точных	точный	ADJF	Qual plur,gent
 данных	дать	PRTF	perf,tran,past,pssv plur,gent
-об
+об	PREP Vpre
 их	они	NPRO	3per,Anph plur,gent
 местонахождении	местонахождение	NOUN	inan,neut sing,loct
-,
-за
+,	PNCT
+за	PREP
 исключением	исключение	NOUN	inan,neut sing,ablt
 обнаруженной	обнаружить	PRTF	perf,tran,past,pssv femn,sing,gent
-в
+в	PREP
 1996	1996	NUMB	intg
 году	год	NOUN	inan,masc sing,loc2
-"
+"	PNCT
 Ловисы-Ульрики	ловис-ульрик	NOUN	inan,masc,Geox plur,nomn
-"
-,
-не
+"	PNCT
+,	PNCT
+не	PRCL
 было	быть	VERB	impf,intr neut,sing,past,indc
-.
-Для
+.	PNCT
+Для	PREP
 47	47	NUMB	intg
 гостей	гость	NOUN	anim,masc plur,gent
 фестиваля	фестиваль	NOUN	inan,masc sing,gent
 праздник	праздник	NOUN	inan,masc sing,nomn
 завершился	завершиться	VERB	perf,intr masc,sing,past,indc
-в
+в	PREP
 вытрезвителях	вытрезвитель	NOUN	inan,masc plur,loct
-.
+.	PNCT
 Полиция	полиция	NOUN	inan,femn sing,nomn
 считает	считать	VERB	impf,tran sing,3per,pres,indc
-,
-что
-"
+,	PNCT
+что	CONJ
+"	PNCT
 холд-ап	холд-ап	NOUN	inan,masc sing,nomn
-"
+"	PNCT
 совершили	совершить	VERB	perf,tran plur,past,indc
-"
+"	PNCT
 гастролеры	гастролёр	NOUN	anim,masc plur,nomn
-"
-,
-несколько
+"	PNCT
+,	PNCT
+несколько	ADVB
 дней	день	NOUN	inan,masc plur,gent
 наблюдавшие	наблюдать	PRTF	impf,tran,past,actv plur,nomn
-за
+за	PREP
 супермаркетом	супермаркет	NOUN	inan,masc sing,ablt
-и
-за
+и	CONJ
+за	PREP
 передвижениями	передвижение	NOUN	inan,neut plur,ablt
 его	он	NPRO	masc,3per,Anph sing,accs
 директора	директор	NOUN	anim,masc plur,nomn
-.
+.	PNCT
 Этому	это	NPRO	neut sing,datv
 преобразованию	преобразование	NOUN	inan,neut sing,datv
-также
+также	CONJ
 препятствует	препятствовать	VERB	impf,intr sing,3per,pres,indc
 дефицит	дефицит	NOUN	inan,masc sing,nomn
 различных	различный	ADJF	Qual plur,gent
 витаминов	витамин	NOUN	inan,masc plur,gent
-и
+и	CONJ
 микроэлементов	микроэлемент	NOUN	inan,masc plur,gent
-,
+,	PNCT
 необходимых	необходимый	ADJF	Qual plur,gent
-для
+для	PREP
 катализирующих	катализировать	PRTF	impf,tran,pres,actv plur,gent
 его	он	NPRO	masc,3per,Anph sing,accs
 ферментов	фермент	NOUN	inan,masc plur,gent
-,
-включая
+,	PNCT
+включая	PREP
 витамин	витамин	NOUN	inan,masc sing,nomn
-B3
-(
+B3	LATN
+(	PNCT
 никотиновая	никотиновый	ADJF femn	sing,nomn
 кислота	кислота	NOUN	inan,femn sing,nomn
-)
-,
-B6
-,
-C
-,
+)	PNCT
+,	PNCT
+B6	LATN
+,	PNCT
+C	LATN
+,	PNCT
 биотин	биотина	NOUN	inan,femn plur,gent
-,
+,	PNCT
 цинк	цинк	NOUN	inan,masc sing,nomn
-и
+и	CONJ
 магний	магний	NOUN	inan,masc sing,nomn
-.
+.	PNCT
 Вызвать	вызвать	INFN	perf,tran
 ее	она	NPRO	femn,3per,Anph sing,gent
 можно	можно	PRED	pres
-с
+с	PREP
 помощью	помощь	NOUN	inan,femn sing,ablt
-php3
-_
-ini
-.
-directive
-.
-Вот
+php3	LATN
+_	PNCT
+ini	LATN
+.	PNCT
+directive	LATN
+.	PNCT
+Вот	PRCL
 пример	пример	NOUN	inan,masc sing,accs
 двойной	двойной	ADJF masc	sing,nomn
 суммы	сумма	NOUN	inan,femn sing,gent
-из
-девяти
+из	PREP
+девяти	NUMR gent
 членов	член	NOUN	anim,masc plur,accs
-,
+,	PNCT
 управляемой	управляемый	ADJF femn	sing,loct
 двумя	два	NUMR masc	ablt
 индексами	индекс	NOUN	inan,masc plur,ablt
-j
-и
-к
-:
-Обычно
+j	LATN
+и	CONJ
+к	PREP
+:	PNCT
+Обычно	ADVB
 правление	правление	NOUN	inan,neut sing,nomn
 бывает	бывать	VERB	impf,intr sing,3per,pres,indc
-из
-девяти
+из	PREP
+девяти	NUMR gent
 членов	член	NOUN	anim,masc plur,accs
-.
--
+.	PNCT
+-	PNCT
 Я	я	NPRO	1per sing,nomn
 пришла	пришлый	ADJS femn	sing
-за
+за	PREP
 своими	свой	ADJF	Apro,Anph plur,ablt
 документами	документ	NOUN	inan,masc plur,ablt
-,
+,	PNCT
 товарищ	товарищ	NOUN	anim,masc sing,nomn
 начальник	начальник	NOUN	anim,masc sing,nomn
-,
--
+,	PNCT
+-	PNCT
 сказала	сказать	VERB	perf,tran femn,sing,past,indc
 Ефимова	ефимов	NOUN	anim,masc,Sgtm,Surn sing,gent
-,
+,	PNCT
 отстраняясь	отстраняться	GRND	impf,intr pres
-от
+от	PREP
 него	он	NPRO	masc,3per,Anph sing,gent,Af-p
-.
-А
-кругом
---
-в
+.	PNCT
+А	CONJ
+кругом	ADVB
+--	PNCT
+в	PREP
 пиццерии	пиццерия	NOUN	inan,femn sing,gent
---
+--	PNCT
 ели	есть	VERB	impf,tran plur,past,indc
-и
+и	CONJ
 жрали	жрать	VERB	impf,tran plur,past,indc
 толпы	толпа	NOUN	inan,femn sing,gent
 людей	человек	NOUN	anim,masc plur,gent
---
-стоя
-,
+--	PNCT
+стоя	ADVB
+,	PNCT
 сидя	сидеть	GRND	impf,intr pres
-,
-посреди
+,	PNCT
+посреди	ADVB
 узкого	узкий	ADJF	Qual masc,sing,gent
 прохода	проход	NOUN	inan,masc sing,gent
-.
-И
-наконец
-,
+.	PNCT
+И	CONJ
+наконец	ADVB
+,	PNCT
 он	он	NPRO	masc,3per,Anph sing,nomn
 жалел	жалеть	VERB	impf,tran masc,sing,past,indc
 свой	свой	ADJF	Apro,Anph inan,masc,sing,accs
 потерянный	потерянный	ADJF	Qual masc,sing,nomn
 ум	ум	NOUN	inan,masc sing,accs
-,
+,	PNCT
 который	который	ADJF	Apro,Subx,Anph masc,sing,nomn
---
-после
+--	PNCT
+после	PREP
 смерти	смерть	NOUN	inan,femn sing,gent
---
-уже
-не
+--	PNCT
+уже	ADVB
+не	PRCL
 сможет	смочь	VERB	perf,intr sing,3per,futr,indc
-ни
-о
-чем
+ни	PRCL
+о	PREP
+чем	CONJ
 думать	думать	INFN	impf,intr
-.
-Либо
-об
+.	PNCT
+Либо	CONJ
+об	PREP Vpre
 акулах	акула	NOUN	anim,femn plur,loct
-,
-что
+,	PNCT
+что	CONJ
 кому	кома	NOUN	inan,femn sing,accs
 понятней	понятный	COMP	Qual V-ej
-.
+.	PNCT
 Вода	вод	NOUN	inan,masc sing,gent
-в
+в	PREP
 банке	банка	NOUN	inan,femn sing,datv
 начала	начало	NOUN	inan,neut sing,gent
 нагреваться	нагреваться	INFN	impf,intr
-.
+.	PNCT
 Светлана	светлана	NOUN	anim,femn,Name sing,nomn
 Багатурия	багатурия	NOUN	inan,femn,Sgtm,Geox sing,nomn
 подперла	подпереть	VERB	perf,tran femn,sing,past,indc
 кулачком	кулачок	NOUN	inan,masc sing,ablt
 подбородок	подбородок	NOUN	inan,masc sing,nomn
-и
-даже
+и	CONJ
+даже	PRCL
 рот	рота	NOUN	inan,femn plur,gent
 открыла	открыть	VERB	perf,tran femn,sing,past,indc
-от
+от	PREP
 проникновения	проникновение	NOUN	inan,neut sing,gent
-.
-А
-что
+.	PNCT
+А	CONJ
+что	CONJ
 дальше	далёкий	COMP	Qual
-?
-Но
+?	PNCT
+Но	CONJ
 начлага	начлаг	NOUN	inan,masc sing,gent
-опять
-и
-опять
-не
+опять	ADVB
+и	CONJ
+опять	ADVB
+не	PRCL
 мог	мочь	VERB	impf,intr masc,sing,past,indc
-.
-А
+.	PNCT
+А	CONJ
 директор	директор	NOUN	anim,masc sing,nomn
 посмеивался	посмеиваться	VERB	impf,intr masc,sing,past,indc
-.
+.	PNCT
 Бывают	бывать	VERB	impf,intr plur,3per,pres,indc
-же
+же	PRCL
 ужасы	ужас	NOUN	inan,masc plur,nomn
-.
-.
-.
-У
+.	PNCT
+.	PNCT
+.	PNCT
+У	PREP
 меня	я	NPRO	1per sing,accs
-есть
+есть	INTJ
 такой	такой	ADJF	Apro femn,sing,gent
 вопрос	вопрос	NOUN	inan,masc sing,nomn
-:
+:	PNCT
 платят	платить	VERB	impf,tran plur,3per,pres,indc
-ли
-в
+ли	PRCL
+в	PREP
 июле-августе	июль-август	NOUN	inan,masc sing,loct
 стипендию	стипендия	NOUN	inan,femn sing,accs
-?
-А
-это
+?	PNCT
+А	CONJ
+это	PRCL
 ссылка	ссылка	NOUN	inan,femn sing,nomn
-на
+на	PREP
 предварительные	предварительный	ADJF plur	nomn
 итоги	итог	NOUN	inan,masc plur,nomn
-по
+по	PREP
 каждой	каждый	ADJF	Apro femn,sing,gent
 позиции	позиция	NOUN	inan,femn sing,loct
-,
+,	PNCT
 кто	кто	NPRO	masc sing,nomn
 скока	скок	NOUN	inan,masc sing,gent
 голосов	голос	NOUN	inan,masc plur,gent
 набрал	набрать	VERB	perf,tran masc,sing,past,indc
-к
+к	PREP
 этому	это	NPRO	neut sing,datv
 моменту	момент	NOUN	inan,masc sing,datv
-.
-http
-:
-/
-/
-www
-.
-nba
-.
-com
-/
-news
-/
-allstar
-_
+.	PNCT
+http	LATN
+:	PNCT
+/	PNCT
+/	PNCT
+www	LATN
+.	PNCT
+nba	LATN
+.	PNCT
+com	LATN
+/	PNCT
+news	LATN
+/	PNCT
+allstar	LATN
+_	PNCT
 031211	031211	NUMB	intg
-.
-html
+.	PNCT
+html	LATN
 Кириленко	кириленко	NOUN	anim,GNdr,Ms-f,Fixd,Surn sing,nomn
---
-в
+--	PNCT
+в	PREP
 основу	основа	NOUN	inan,femn sing,accs
-!
+!	PNCT
 Давайте-ка	давать-ка	VERB	impf,tran plur,impr,excl
 поразмыслим	поразмыслить	VERB	perf,intr plur,1per,futr,indc
-.
-.
-.
-Ну
+.	PNCT
+.	PNCT
+.	PNCT
+Ну	PRCL
 я	я	NPRO	1per sing,nomn
-бы
-не
+бы	PRCL
+не	PRCL
 сказал	сказать	VERB	perf,tran masc,sing,past,indc
-что
+что	CONJ
 все	весь	ADJF	Apro plur,nomn
-таки
+таки	PRCL
 уровень	уровень	NOUN	inan,masc sing,nomn
 падает	падать	VERB	impf,intr sing,3per,pres,indc
-.
-.
-.
-.
-Как
-это
+.	PNCT
+.	PNCT
+.	PNCT
+.	PNCT
+Как	CONJ
+это	PRCL
 Петрович	пётр	NOUN	anim,masc,Patr sing,nomn
 собирается	собираться	VERB	impf,intr sing,3per,pres,indc
 строить	строить	INFN	impf,tran
 игру	игра	NOUN	inan,femn sing,accs
 команды	команда	NOUN	inan,femn sing,gent
-вокруг
+вокруг	ADVB
 неиграющего	неиграющий	ADJF masc	sing,gent
-Ковенаги
-?
+Ковенаги	ADJS plur
+?	PNCT
 Созданная	создать	PRTF	perf,tran,past,pssv femn,sing,nomn
-в
+в	PREP
 процессе	процесс	NOUN	inan,masc sing,loct
 диверсификации	диверсификация	NOUN	inan,femn sing,gent
 бизнеса	бизнес	NOUN	inan,masc sing,gent
-"
+"	PNCT
 ПроСофт	прософт	NOUN	inan,masc sing,nomn
-"
-,
+"	PNCT
+,	PNCT
 эта	этот	ADJF	Apro,Subx,Anph femn,sing,nomn
 компания	компания	NOUN	inan,femn sing,nomn
 занимается	заниматься	VERB	impf,intr sing,3per,pres,indc
 разработкой	разработка	NOUN	inan,femn sing,ablt
-и
+и	CONJ
 производством	производство	NOUN	inan,neut sing,ablt
 одноплатных	одноплатный	ADJF	Qual plur,gent
 компьютеров	компьютер	NOUN	inan,masc plur,gent
-и
+и	CONJ
 других	другой	ADJF	Apro,Subx plur,gent
 электронных	электронный	ADJF plur	gent
 блоков	блок	NOUN	inan,masc plur,gent
-,
-а
-также
+,	PNCT
+а	CONJ
+также	CONJ
 разработкой	разработка	NOUN	inan,femn sing,ablt
-и
+и	CONJ
 изготовлением	изготовление	NOUN	inan,neut sing,ablt
-по
+по	PREP
 контракту	контракт	NOUN	inan,masc sing,datv
 электронного	электронный	ADJF neut	sing,gent
 оборудования	оборудование	NOUN	inan,neut sing,gent
-для
+для	PREP
 систем	система	NOUN	inan,femn plur,gent
 промышленной	промышленный	ADJF femn	sing,gent
 автоматизации	автоматизация	NOUN	inan,femn sing,gent
-(
+(	PNCT
 доходы	доход	NOUN	inan,masc plur,nomn
-от
+от	PREP
 этих	этот	ADJF	Apro,Subx,Anph plur,gent
 видов	вид	NOUN	inan,masc plur,gent
 деятельности	деятельность	NOUN	inan,femn sing,gent
-приблизительно
+приблизительно	ADVB
 одинаковы	одинаковый	ADJS	Qual plur
-)
-.
-По
+)	PNCT
+.	PNCT
+По	PREP
 словам	слово	NOUN	inan,neut plur,datv
 Девида	девид	NOUN	anim,masc,Name sing,gent
-Ги
-,
+Ги	UNKN
+,	PNCT
 вице-президента	вице-президент	NOUN	anim,masc sing,gent
-HP
-Software
-по
+HP	LATN
+Software	LATN
+по	PREP
 маркетингу	маркетинг	NOUN	inan,masc sing,datv
-,
+,	PNCT
 новое	новое	NOUN	inan,neut sing,nomn
 подразделение	подразделение	NOUN	inan,neut sing,nomn
-,
+,	PNCT
 получившее	получить	PRTF	perf,tran,past,actv neut,sing,nomn
 название	название	NOUN	inan,neut sing,nomn
-Business
-Information
-Optimization
-(
-BIO
-)
-,
+Business	LATN
+Information	LATN
+Optimization	LATN
+(	PNCT
+BIO	LATN
+)	PNCT
+,	PNCT
 будет	быть	VERB	impf,intr sing,3per,futr,indc
 состоять	состоять	INFN	impf,intr
-из
+из	PREP
 двух	два	NUMR masc	gent
 групп	группа	NOUN	inan,femn plur,gent
-.
+.	PNCT
 Основной	основной	ADJF masc	sing,nomn
 продукт	продукт	NOUN	inan,masc sing,nomn
 компании-разработчика	компания-разработчик	NOUN	inan,femn sing,gent
 антивирусного	антивирусный	ADJF neut	sing,gent
-ПО
-Eset
--
-Eset
-NOD32
+ПО	PREP
+Eset	LATN
+-	PNCT
+Eset	LATN
+NOD32	LATN
 закуплен	закупить	PRTS	perf,past,pssv masc,sing
-для
+для	PREP
 парламента	парламент	NOUN	inan,masc sing,gent
 республики	республика	NOUN	inan,femn sing,gent
 Узбекистан	узбекистан	NOUN	inan,masc,Geox sing,nomn
-(
+(	PNCT
 Олий	олия	NOUN	anim,femn,Name plur,gent
 Мажлис	мажлис	NOUN	anim,masc sing,nomn
-)
-.
-Еще
+)	PNCT
+.	PNCT
+Еще	PRCL
 один	один	ADJF	Apro masc,sing,nomn
 проект	проект	NOUN	inan,masc sing,nomn
-,
+,	PNCT
 который	который	ADJF	Apro,Subx,Anph masc,sing,nomn
 мне	я	NPRO	1per sing,datv
-очень
+очень	ADVB
 импонирует	импонировать	VERB	impf,intr sing,3per,pres,indc
--
-это
+-	PNCT
+это	PRCL
 наше	наш	ADJF	Apro neut,sing,nomn
 сотрудничество	сотрудничество	NOUN	inan,neut sing,accs
-со
+со	PREP Vpre
 Школой	школа	NOUN	inan,femn sing,ablt
 изящных	изящный	ADJF	Qual plur,gent
 искусств	искусство	NOUN	inan,neut plur,gent
 Фаберже	фабержа	NOUN	inan,femn sing,datv
-:
-для
+:	PNCT
+для	PREP
 абитуриентов	абитуриент	NOUN	anim,masc plur,gent
-,
+,	PNCT
 которые	который	ADJF	Apro,Subx,Anph plur,nomn
-в
+в	PREP
 будущем	будущее	NOUN	inan,neut sing,loct
 создадут	создать	VERB	perf,tran plur,3per,futr,indc
 свой	свой	ADJF	Apro,Anph inan,masc,sing,accs
 бизнес	бизнес	NOUN	inan,masc sing,nomn
-,
+,	PNCT
 став	стать	GRND	perf,intr past
 ювелирами	ювелир	NOUN	anim,masc plur,ablt
-,
+,	PNCT
 дизайнерами	дизайнер	NOUN	anim,masc plur,ablt
 одежды	одежда	NOUN	inan,femn sing,gent
-,
+,	PNCT
 художниками	художник	NOUN	anim,masc plur,ablt
-,
+,	PNCT
 мы	мы	NPRO	1per plur,nomn
-также
+также	CONJ
 основали	основать	VERB	perf,tran plur,past,indc
 компьютерный	компьютерный	ADJF masc	sing,nomn
 класс	класс	NOUN	inan,masc sing,nomn
-,
+,	PNCT
 где	где	ADVB	Ques
 они	они	NPRO	3per,Anph plur,nomn
 изучают	изучать	VERB	impf,tran plur,3per,pres,indc
-,
-чем
+,	PNCT
+чем	CONJ
 им	имя	NOUN	inan,neut sing,gent,Abbr
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 быть	быть	INFN	impf,intr
 полезны	полезный	ADJS	Qual plur
 информационные	информационный	ADJF plur	nomn
 технологии	технология	NOUN	inan,femn sing,gent
-.
+.	PNCT
 АСУ	асу	NOUN	anim,masc,Sgtm,Fixd,Name sing,nomn
 госзакупками	госзакупка	NOUN	inan,femn plur,ablt
 региона	регион	NOUN	inan,masc sing,gent
 разработана	разработать	PRTS	perf,past,pssv femn,sing
-на
+на	PREP
 основе	основа	NOUN	inan,femn sing,loct
 электронного	электронный	ADJF neut	sing,gent
 решения	решение	NOUN	inan,neut sing,gent
 компании	компания	NOUN	inan,femn sing,gent
-"
+"	PNCT
 НОРБИТ	норбита	NOUN	inan,femn plur,gent
-"
--
-"
+"	PNCT
+-	PNCT
+"	PNCT
 ГосЗаказ	госзаказ	NOUN	inan,masc sing,nomn
-"
-v
-.
+"	PNCT
+v	ROMN
+.	PNCT
 3	3	NUMB	intg
-.
+.	PNCT
 0	0	NUMB	intg
-и
-функционально
+и	CONJ
+функционально	ADVB
 охватывает	охватывать	VERB	impf,tran sing,3per,pres,indc
 комплексное	комплексный	ADJF neut	sing,nomn
 управление	управление	NOUN	inan,neut sing,nomn
@@ -2263,12 +2263,12 @@ v
 размещения	размещение	NOUN	inan,neut sing,gent
 государственных	государственный	ADJF plur	gent
 заказов	заказ	NOUN	inan,masc plur,gent
-.
+.	PNCT
 Компания	компания	NOUN	inan,femn sing,nomn
-"
+"	PNCT
 АйТи	айти	INFN	perf,intr
-"
-по
+"	PNCT
+по	PREP
 запросу	запрос	NOUN	inan,masc sing,datv
 руководства	руководство	NOUN	inan,neut sing,gent
 ВолГУ	волга	NOUN	inan,femn sing,accs
@@ -2277,194 +2277,194 @@ v
 полнофункциональную	полнофункциональный	ADJF	Qual femn,sing,accs
 версию	версия	NOUN	inan,femn sing,accs
 системы	система	NOUN	inan,femn sing,gent
-"
+"	PNCT
 БОСС-Референт	босс-референт	NOUN	anim,masc sing,nomn
-"
-.
-ЭЦП
+"	PNCT
+.	PNCT
+ЭЦП	UNKN
 тормозит	тормозить	VERB	impf,tran sing,3per,pres,indc
-ЭДО
+ЭДО	UNKN
 Резюмируя	резюмировать	GRND	impf,tran pres
 обсуждения	обсуждение	NOUN	inan,neut sing,gent
-в
+в	PREP
 данной	дать	PRTF	perf,tran,past,pssv femn,sing,gent
 секции	секция	NOUN	inan,femn sing,gent
-,
+,	PNCT
 можно	можно	PRED	pres
 сказать	сказать	INFN	perf,tran
-,
-что
+,	PNCT
+что	CONJ
 новых	новый	ADJF	Qual plur,gent
 проблем	проблема	NOUN	inan,femn plur,gent
-за
+за	PREP
 последний	последний	ADJF masc	sing,nomn
 год	год	NOUN	inan,masc sing,accs
-не
+не	PRCL
 появилось	появиться	VERB	perf,intr neut,sing,past,indc
-,
+,	PNCT
 старые	старое	NOUN	inan,neut plur,nomn
-же
-,
+же	PRCL
+,	PNCT
 например	например	CONJ	Prnt
-,
+,	PNCT
 несовершенство	несовершенство	NOUN	inan,neut sing,accs
 нормативной	нормативный	ADJF femn	sing,gent
 базы	база	NOUN	inan,femn sing,gent
-,
+,	PNCT
 определяющей	определять	PRTF	impf,tran,pres,actv,Adjx femn,sing,gent
 функционирование	функционирование	NOUN	inan,neut sing,nomn
 удостоверяющих	удостоверять	PRTF	impf,tran,pres,actv plur,gent
 центров	центр	NOUN	inan,masc plur,gent
-,
+,	PNCT
 решаются	решаться	VERB	impf,intr plur,3per,pres,indc
-чрезвычайно
-медленно
-.
+чрезвычайно	ADVB
+медленно	ADVB
+.	PNCT
 Вечные	вечный	ADJF	Qual plur,nomn
 барьеры	барьер	NOUN	inan,masc plur,nomn
-Наиболее
+Наиболее	ADVB
 заметный	заметный	ADJF	Qual masc,sing,nomn
 прогресс	прогресс	NOUN	inan,masc sing,nomn
 наблюдается	наблюдаться	VERB	impf,intr sing,3per,pres,indc
 там	там	ADVB	Dmns
-,
+,	PNCT
 где	где	ADVB	Ques
 бизнес	бизнес	NOUN	inan,masc sing,nomn
 может	мочь	VERB	impf,intr sing,3per,pres,indc
 что-то	что-то	NPRO	neut sing,nomn
 сделать	сделать	INFN	perf,tran
-самостоятельно
--
+самостоятельно	ADVB
+-	PNCT
 эта	этот	ADJF	Apro,Subx,Anph femn,sing,nomn
 мысль	мысль	NOUN	inan,femn sing,nomn
-,
-мимоходом
+,	PNCT
+мимоходом	ADVB
 прозвучавшая	прозвучать	PRTF	perf,intr,past,actv femn,sing,nomn
-в
+в	PREP
 выступлении	выступление	NOUN	inan,neut sing,loct
 одного	один	ADJF	Apro neut,sing,gent
-из
+из	PREP
 докладчиков	докладчик	NOUN	anim,masc plur,gent
-,
+,	PNCT
 ясно	ясно	ADVB	Prdx
 характеризует	характеризовать	VERB	perf,tran sing,3per,futr,indc
 отношение	отношение	NOUN	inan,neut sing,accs
 бизнеса	бизнес	NOUN	inan,masc sing,gent
-к
+к	PREP
 работе	работа	NOUN	inan,femn sing,loct
-в
+в	PREP
 госсекторе	госсектор	NOUN	inan,masc sing,loct
-.
-В
+.	PNCT
+В	PREP
 операции	операция	NOUN	inan,femn sing,gent
 задействовано	задействовать	PRTS	perf,past,pssv neut,sing
 80	80	NUMB	intg
 автомашин	автомашина	NOUN	inan,femn plur,gent
-и
+и	CONJ
 бронетранспортеров	бронетранспортёр	NOUN	inan,masc plur,gent
-,
+,	PNCT
 8	8	NUMB	intg
 вертолетов	вертолёт	NOUN	inan,masc plur,gent
-,
-а
-также
+,	PNCT
+а	CONJ
+также	CONJ
 артиллерия	артиллерия	NOUN	inan,femn sing,nomn
-и
+и	CONJ
 танки	танк	NOUN	inan,masc plur,nomn
-.
-Несмотря
-на
+.	PNCT
+Несмотря	PREP
+на	PREP
 прибытие	прибытие	NOUN	inan,neut sing,nomn
-в
-на
+в	PREP
+на	PREP
 место	место	NOUN	inan,neut sing,accs
 инцидента	инцидент	NOUN	inan,masc sing,gent
 специалистов	специалист	NOUN	anim,masc plur,gent
-из
+из	PREP
 Бангкока	бангкок	NOUN	inan,masc,Geox sing,gent
-,
+,	PNCT
 лайнер	лайнер	NOUN	inan,masc sing,nomn
-пока
-не
+пока	ADVB
+не	PRCL
 удалось	удаться	VERB	perf,intr neut,sing,past,indc
 вытащить	вытащить	INFN	perf,tran
-из
+из	PREP
 глины	глина	NOUN	inan,femn sing,gent
-,
-что
-не
+,	PNCT
+что	CONJ
+не	PRCL
 позволяет	позволять	VERB	impf,tran sing,3per,pres,indc
 возобновить	возобновить	INFN	perf,tran
 работу	работа	NOUN	inan,femn sing,accs
 аэропорта	аэропорт	NOUN	inan,masc sing,gent
-.
-Так
-,
+.	PNCT
+Так	CONJ
+,	PNCT
 оказалось	оказаться	VERB	perf,intr neut,sing,past,indc
-полностью
+полностью	ADVB
 отрезанным	отрезать	PRTF	perf,tran,past,pssv masc,sing,ablt
-от
+от	PREP
 внешнего	внешний	ADJF neut	sing,gent
 мира	мир	NOUN	inan,masc sing,gent
 местечко	местечко	NOUN	inan,neut sing,nomn
 Кирхомфельд	кирхомфельд	NOUN	anim,masc,Sgtm,Surn sing,nomn
-.
-Благодаря
+.	PNCT
+Благодаря	PREP
 личности	личность	NOUN	inan,femn sing,gent
 основателя	основатель	NOUN	anim,masc sing,gent
-,
+,	PNCT
 монастырь	монастырь	NOUN	inan,masc sing,nomn
-скоро
+скоро	ADVB
 приобрел	приобрести	VERB	perf,tran masc,sing,past,indc
 большую	большой	ADJF	Qual femn,sing,accs
 славу	слава	NOUN	inan,femn sing,accs
-и
+и	CONJ
 стал	стать	VERB	perf,intr masc,sing,past,indc
 играть	играть	INFN	impf,tran
 роль	роль	NOUN	inan,femn sing,accs
-в
+в	PREP
 княжеских	княжеский	ADJF plur	loct
 отношениях	отношение	NOUN	inan,neut plur,loct
-.
-По
+.	PNCT
+По	PREP
 его	он	NPRO	masc,3per,Anph sing,accs
 мнению	мнение	NOUN	inan,neut sing,datv
-,
+,	PNCT
 необходимо	необходимый	ADJS	Qual neut,sing
 усилить	усилить	INFN	perf,tran
 координацию	координация	NOUN	inan,femn sing,accs
-между
+между	PREP
 другими	другой	ADJF	Apro,Subx plur,ablt
 министерствами	министерство	NOUN	inan,neut plur,ablt
-и
+и	CONJ
 ведомствами	ведомство	NOUN	inan,neut plur,ablt
-,
-в
+,	PNCT
+в	PREP
 частности	частность	NOUN	inan,femn sing,loct
-,
+,	PNCT
 МВД	мвд	NOUN	inan,neut,Sgtm,Fixd,Abbr,Orgn sing,gent
-,
+,	PNCT
 Минобороны	минобороны	NOUN	inan,neut,Sgtm,Fixd,Orgn sing,nomn
-и
+и	CONJ
 Минздрава	минздрав	NOUN	inan,masc,Orgn sing,gent
-с
+с	PREP
 МЧС	мчс	NOUN	inan,neut,Sgtm,Fixd,Abbr,Orgn sing,nomn
-и
+и	CONJ
 региональными	региональный	ADJF plur	ablt
 властями	власть	NOUN	inan,femn plur,ablt
-.
+.	PNCT
 Жители	житель	NOUN	anim,masc plur,nomn
 поселка	посёлок	NOUN	inan,masc sing,gent
 Невская	невский	NOUN	anim,femn,Sgtm,Surn sing,nomn
 Дубровка	дубровка	NOUN	inan,femn sing,nomn
 могут	мочь	VERB	impf,intr plur,3per,pres,indc
 остаться	остаться	INFN	perf,intr
-без
+без	PREP
 света	свет	NOUN	inan,masc,Sgtm sing,gent
-из-за
+из-за	PREP
 того	тот	ADJF	Apro,Subx,Anph neut,sing,gent
-,
-что
+,	PNCT
+что	CONJ
 администрация	администрация	NOUN	inan,femn sing,nomn
 Всеволжского	всеволжский	ADJF masc	sing,gent
 района	район	NOUN	inan,masc sing,gent
@@ -2473,122 +2473,122 @@ v
 задерживает	задерживать	VERB	impf,tran sing,3per,pres,indc
 выплату	выплата	NOUN	inan,femn sing,accs
 долга	долг	NOUN	inan,masc sing,gent
-за
+за	PREP
 электроэнергию	электроэнергия	NOUN	inan,femn sing,accs
 АО	ао	NOUN	inan,masc,Fixd,Orgn sing,nomn
-"
+"	PNCT
 Ленэнерго	ленэнерго	NOUN	inan,neut,Fixd,Orgn sing,nomn
-"
-.
-В
+"	PNCT
+.	PNCT
+В	PREP
 поселке	посёлок	NOUN	inan,masc sing,loct
 Видяево	видяево	NOUN	inan,neut,Sgtm,Geox sing,nomn
-/
+/	PNCT
 Мурманская	мурманский	ADJF femn	sing,nomn
 область	область	NOUN	inan,femn sing,nomn
-/
-,
+/	PNCT
+,	PNCT
 откуда	откуда	ADVB	Ques
 два	два	NUMR masc	nomn
 года	год	NOUN	inan,masc sing,gent
-назад
-в
+назад	ADVB
+в	PREP
 последний	последний	ADJF masc	sing,nomn
 поход	поход	NOUN	inan,masc sing,nomn
 ушел	уйти	VERB	perf,intr masc,sing,past,indc
-"
+"	PNCT
 Курск	курск	NOUN	inan,masc,Geox sing,nomn
-"
-,
+"	PNCT
+,	PNCT
 был	быть	VERB	impf,intr masc,sing,past,indc
 открыт	открытый	ADJS	Qual masc,sing
 Мемориал	мемориал	NOUN	inan,masc sing,nomn
 морякам-подводникам	моряк-подводник	NOUN	anim,masc plur,datv
-,
+,	PNCT
 погибшим	погибший	ADJF masc	sing,ablt
-в
+в	PREP
 океане	океан	NOUN	inan,masc sing,loct
-.
+.	PNCT
 Руководство	руководство	NOUN	inan,neut sing,nomn
 газового	газовый	ADJF neut	sing,gent
 концерна	концерн	NOUN	inan,masc sing,gent
 заявило	заявить	VERB	perf,tran neut,sing,past,indc
-,
-что
-в
+,	PNCT
+что	CONJ
+в	PREP
 результате	результат	NOUN	inan,masc sing,loct
 планируемой	планировать	PRTF	impf,tran,pres,pssv femn,sing,gent
 допэмиссии	допэмиссия	NOUN	inan,femn sing,gent
 акций	акция	NOUN	inan,femn plur,gent
-"
+"	PNCT
 СИБУРа	сибур	NOUN	inan,masc,Sgtm,Orgn sing,gent
-"
+"	PNCT
 был	быть	VERB	impf,intr masc,sing,past,indc
 размыт	размытый	ADJS	Qual masc,sing
 пакет	пакет	NOUN	inan,masc sing,accs
 акций	акция	NOUN	inan,femn plur,gent
-"
+"	PNCT
 Газпрома	газпром	NOUN	inan,masc,Orgn sing,gent
-"
-.
+"	PNCT
+.	PNCT
 Женщина	женщина	NOUN	anim,femn sing,nomn
 необыкновенной	необыкновенный	ADJF	Qual femn,sing,gent
 красоты	красота	NOUN	inan,femn sing,gent
-,
+,	PNCT
 талантливая	талантливый	ADJF	Qual femn,sing,nomn
 актриса	актриса	NOUN	anim,femn sing,nomn
-и
+и	CONJ
 педагог	педагог	NOUN	anim,masc sing,nomn
 она	она	NPRO	femn,3per,Anph sing,nomn
 занимает	занимать	VERB	impf,tran sing,3per,pres,indc
 достойное	достойный	ADJF	Qual neut,sing,nomn
 место	место	NOUN	inan,neut sing,accs
-в
+в	PREP
 прославленной	прославить	PRTF	perf,tran,past,pssv,Adjx femn,sing,gent
 галерее	галерея	NOUN	inan,femn sing,loct
 портретов	портрет	NOUN	inan,masc plur,gent
-,
+,	PNCT
 где	где	ADVB	Ques
 пляшет	плясать	VERB	impf,tran sing,3per,pres,indc
 сверкающая	сверкать	PRTF	impf,intr,pres,actv femn,sing,nomn
 Золушка	золушка	NOUN	anim,femn sing,nomn
 Любови	любовь	NOUN	anim,femn,Name plur,nomn
 Орловой	орлов	NOUN	anim,femn,Sgtm,Surn sing,gent
-,
+,	PNCT
 где	где	ADVB	Ques
 поют	петь	VERB	impf,tran plur,3per,pres,indc
 наивные	наивный	ADJF	Qual plur,nomn
 Марьяны	марьяна	NOUN	anim,femn,Name sing,gent
-и
+и	CONJ
 Глаши	глаша	NOUN	anim,femn,Name sing,gent
 Марины	марина	NOUN	anim,femn,Name sing,gent
 Ладыниной	ладынина	NOUN	anim,femn,Name sing,ablt
-,
+,	PNCT
 где	где	ADVB	Ques
 страдает	страдать	VERB	impf,intr sing,3per,pres,indc
 великая	великий	ADJF femn	sing,nomn
 Вера	вера	NOUN	inan,femn sing,nomn
 Марецкая	марецкай	NOUN	anim,masc,Name sing,gent
-.
-Между
-тем
-в
+.	PNCT
+Между	PREP
+тем	CONJ
+в	PREP
 этом	это	NPRO	neut sing,loct
-же
+же	PRCL
 районе	район	NOUN	inan,masc sing,loct
-"
+"	PNCT
 всплыла	всплыть	VERB	perf,intr femn,sing,past,indc
-"
-еще
+"	PNCT
+еще	PRCL
 одна	один	ADJF	Apro femn,sing,nomn
 поддельная	поддельный	ADJF	Qual femn,sing,nomn
 пятисотрублевка	пятисотрублёвка	NOUN	inan,femn sing,nomn
-.
-В
+.	PNCT
+В	PREP
 минувший	минувший	ADJF masc	sing,nomn
 четверг	четверг	NOUN	inan,masc sing,accs
 суд	суд	NOUN	inan,masc sing,nomn
-по
+по	PREP
 ходатайству	ходатайство	NOUN	inan,neut sing,datv
 защиты	защита	NOUN	inan,femn sing,gent
 изменил	изменить	VERB	perf,tran masc,sing,past,indc
@@ -2596,53 +2596,53 @@ v
 пресечения	пресечение	NOUN	inan,neut sing,gent
 другому	другой	ADJF	Apro,Subx masc,sing,datv
 обвиняемому	обвинять	PRTF	Subx,impf,tran,pres,pssv masc,sing,datv
-по
+по	PREP
 этому	это	NPRO	neut sing,datv
 делу	дело	NOUN	inan,neut sing,datv
--
+-	PNCT
 бывшему	бывший	ADJF masc	sing,datv
 вице-президенту	вице-президент	NOUN	anim,masc sing,datv
 компании	компания	NOUN	inan,femn sing,gent
 Евгению	евгений	NOUN	anim,masc,Name sing,datv
 Кощицу	кощица	NOUN	inan,femn sing,accs
-.
+.	PNCT
 Санитарной	санитарный	ADJF	Qual femn,sing,gent
 обработке	обработка	NOUN	inan,femn sing,loct
 будут	быть	VERB	impf,intr plur,3per,futr,indc
 подвергнуты	подвергнуть	PRTS	perf,past,pssv plur
 территории	территория	NOUN	inan,femn sing,loct
-двенадцати
+двенадцати	NUMR gent
 баз	база	NOUN	inan,femn plur,gent
 отдыха	отдых	NOUN	inan,masc sing,gent
-,
+,	PNCT
 расположенных	расположить	PRTF	perf,tran,past,pssv plur,gent
-в
+в	PREP
 районе	район	NOUN	inan,masc sing,loct
 поселка	посёлок	NOUN	inan,masc sing,gent
-.
-В
-то
-же
+.	PNCT
+В	PREP
+то	CONJ
+же	PRCL
 время	время	NOUN	inan,neut sing,accs
 санитарно-эпидемиологическая	санитарно-эпидемиологический	ADJF femn	sing,nomn
 служба	служба	NOUN	inan,femn sing,nomn
 Краснодарского	краснодарский	ADJF masc	sing,gent
 края	край	NOUN	inan,masc sing,gent
 настаивает	настаивать	VERB	impf,intr sing,3per,pres,indc
-на
+на	PREP
 закрытии	закрытие	NOUN	inan,neut sing,loct
 оздоровительных	оздоровительный	ADJF plur	loct
 лагерей	лагерь	NOUN	inan,masc plur,gent
-в
+в	PREP
 поселках	посёлок	NOUN	inan,masc plur,loct
 Южная	южный	ADJF	Qual femn,sing,nomn
 Озереевка	озереевка	NOUN	inan,femn,Sgtm,Geox sing,nomn
-и
+и	CONJ
 Широкая	широкий	ADJF	Qual femn,sing,nomn
 Балка	балка	NOUN	inan,femn sing,nomn
-,
+,	PNCT
 где	где	ADVB	Ques
-в
+в	PREP
 настоящее	настоящее	NOUN	inan,neut sing,accs
 время	время	NOUN	inan,neut sing,accs
 находятся	находиться	VERB	impf,intr plur,3per,pres,indc
@@ -2650,202 +2650,202 @@ v
 тыс	тысяча	NOUN	inan,femn,Fixd,Abbr sing,nomn
 470	470	NUMB	intg
 детей	ребёнок	NOUN	anim,masc plur,gent
-,
+,	PNCT
 прибывших	прибыть	PRTF	perf,intr,past,actv anim,plur,accs
-на
+на	PREP
 отдых	отдых	NOUN	inan,masc sing,accs
-.
-В
+.	PNCT
+В	PREP
 июле	июль	NOUN	inan,masc sing,loct
-на
+на	PREP
 автодорогах	автодорога	NOUN	inan,femn plur,loct
 Франции	франция	NOUN	inan,femn,Sgtm,Geox sing,gent
 погибло	погибнуть	VERB	perf,intr neut,sing,past,indc
 665	665	NUMB	intg
 человек	человек	NOUN	anim,masc sing,nomn
-.
-При
+.	PNCT
+При	PREP
 нападении	нападение	NOUN	inan,neut sing,loct
-на
+на	PREP
 ювелирный	ювелирный	ADJF	Qual masc,sing,nomn
 магазин	магазин	NOUN	inan,masc sing,accs
-из
+из	PREP
 пистолета	пистолет	NOUN	inan,masc sing,gent
 был	быть	VERB	impf,intr masc,sing,past,indc
 тяжело	тяжело	ADVB	Prdx
 ранен	раненый	ADJS masc	sing
 охранник	охранник	NOUN	anim,masc sing,nomn
-,
-а
-при
+,	PNCT
+а	CONJ
+при	PREP
 ограблении	ограбление	NOUN	inan,neut sing,loct
 магазина	магазин	NOUN	inan,masc sing,gent
 компьютерной	компьютерный	ADJF femn	sing,gent
 техники	техника	NOUN	inan,femn sing,gent
--
+-	PNCT
 двое	двое	NUMR	Coll nomn
 контролеров	контролёр	NOUN	anim,masc plur,gent
--
+-	PNCT
 администраторов	администратор	NOUN	anim,masc plur,gent
-.
+.	PNCT
 Спецпредставитель	спецпредставитель	NOUN	anim,masc sing,nomn
 МИД	мид	NOUN	inan,masc,Orgn sing,nomn
 РФ	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox sing,gent
 считает	считать	VERB	impf,tran sing,3per,pres,indc
-,
-что
-,
+,	PNCT
+что	CONJ
+,	PNCT
 нагнетая	нагнетать	GRND	impf,tran pres
 атмосферу	атмосфера	NOUN	inan,femn sing,accs
 конфронтации	конфронтация	NOUN	inan,femn sing,gent
-,
+,	PNCT
 Тбилиси	тбилиси	NOUN	inan,masc,Sgtm,Fixd,Geox sing,loct
 Абхазию	абхазия	NOUN	inan,femn,Sgtm,Geox sing,accs
-не
+не	PRCL
 вернет	вернуть	VERB	perf,tran sing,3per,futr,indc
 2002	2002	NUMB	intg
-/
+/	PNCT
 08	08	NUMB	intg
-/
+/	PNCT
 12	12	NUMB	intg
-/
-Если
+/	PNCT
+Если	CONJ
 Тбилиси	тбилиси	NOUN	inan,masc,Sgtm,Fixd,Geox sing,loct
 будет	быть	VERB	impf,intr sing,3per,futr,indc
 нагнетать	нагнетать	INFN	impf,tran
 атмосферу	атмосфера	NOUN	inan,femn sing,accs
 конфронтации	конфронтация	NOUN	inan,femn sing,gent
-,
-"
-то
-совершенно
+,	PNCT
+"	PNCT
+то	CONJ
+совершенно	ADVB
 ясно	ясно	ADVB	Prdx
-,
-что
+,	PNCT
+что	CONJ
 таким	такой	ADJF	Apro plur,datv
 методом	метод	NOUN	inan,masc sing,ablt
 Абхазию	абхазия	NOUN	inan,femn,Sgtm,Geox sing,accs
 Грузии	грузия	NOUN	inan,femn,Sgtm,Geox sing,gent
-не
+не	PRCL
 вернуть	вернуть	INFN	perf,tran
-"
-.
-А
+"	PNCT
+.	PNCT
+А	CONJ
 7	7	NUMB	intg
 апреля	апрель	NOUN	inan,masc sing,gent
 началась	начаться	VERB	perf,intr femn,sing,past,indc
 серия	серия	NOUN	inan,femn sing,nomn
 диверсионно-террористических	диверсионно-террористический	ADJF plur	gent
 актов	акт	NOUN	inan,masc plur,gent
-со
+со	PREP Vpre
 стороны	сторона	NOUN	inan,femn sing,gent
 групп	группа	NOUN	inan,femn plur,gent
-,
+,	PNCT
 приходивших	приходить	PRTF	impf,intr,past,actv plur,gent
-с
+с	PREP
 территории	территория	NOUN	inan,femn sing,loct
 Грузии	грузия	NOUN	inan,femn,Sgtm,Geox sing,gent
-.
+.	PNCT
 Компания	компания	NOUN	inan,femn sing,nomn
-"
+"	PNCT
 Сибнефть	сибнефть	NOUN	inan,femn,Sgtm,Orgn sing,nomn
-"
-,
+"	PNCT
+,	PNCT
 получив	получить	GRND	perf,tran past
 37-процентный	37-процентный	ADJF	Qual masc,sing,nomn
 пакет	пакет	NOUN	inan,masc sing,accs
 акций	акция	NOUN	inan,femn plur,gent
 завода	завод	NOUN	inan,masc sing,gent
-,
+,	PNCT
 стремится	стремиться	VERB	impf,intr sing,3per,pres,indc
-"
+"	PNCT
 влиять	влиять	INFN	impf,intr
-на
+на	PREP
 ситуацию	ситуация	NOUN	inan,femn sing,accs
-на
+на	PREP
 рынке	рынок	NOUN	inan,masc sing,loct
 Москвы	москва	NOUN	inan,femn,Sgtm,Geox sing,gent
-"
-.
-Как
+"	PNCT
+.	PNCT
+Как	CONJ
 сообщили	сообщить	VERB	perf,tran plur,past,indc
 РИА	риа	NOUN	inan,neut,Sgtm,Fixd,Orgn sing,nomn
-"
+"	PNCT
 Новости	новость	NOUN	inan,femn sing,gent
-"
-в
+"	PNCT
+в	PREP
 понедельник	понедельник	NOUN	inan,masc sing,accs
-в
+в	PREP
 суде	суд	NOUN	inan,masc sing,loct
-,
+,	PNCT
 19-летние	19-летний	ADJF plur	nomn
 подсудимые	подсудимый	NOUN	anim,masc plur,nomn
-из
+из	PREP
 города	город	NOUN	inan,masc sing,gent
 Долгопрудный	долгопрудный	NOUN	inan,masc,Sgtm,Geox sing,nomn
 были	быть	VERB	impf,intr plur,past,indc
 признаны	признать	PRTS	perf,past,pssv plur
 виновными	виновный	ADJF	Qual plur,ablt
-в
-"
+в	PREP
+"	PNCT
 бандитизме	бандитизм	NOUN	inan,masc sing,loct
-"
-/
+"	PNCT
+/	PNCT
 ст	ст	NOUN	inan,femn,Fixd,Abbr sing,nomn
 209	209	NUMB	intg
 УК	ук	NOUN	inan,masc sing,nomn
 РФ	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox sing,gent
-/
-и
-"
+/	PNCT
+и	CONJ
+"	PNCT
 разбое	разбой	NOUN	inan,masc sing,loct
-"
-/
+"	PNCT
+/	PNCT
 ст	ст	NOUN	inan,femn,Fixd,Abbr sing,nomn
-.
+.	PNCT
 162	162	NUMB	intg
 УК	ук	NOUN	inan,masc sing,nomn
 РФ	рф	NOUN	inan,femn,Sgtm,Fixd,Abbr,Geox sing,gent
-/
-.
-В
+/	PNCT
+.	PNCT
+В	PREP
 экономической	экономический	ADJF femn	sing,gent
 столице	столица	NOUN	inan,femn sing,loct
 Танзании	танзания	NOUN	inan,femn,Sgtm,Geox sing,loct
 Дар-эс-Саламе	дар-эс-салам	NOUN	inan,masc,Geox sing,loct
 начались	начаться	VERB	perf,intr plur,past,indc
 переговоры	переговоры	NOUN	inan,GNdr,Pltm plur,nomn
-между
+между	PREP
 правительством	правительство	NOUN	inan,neut sing,ablt
 Бурунди	бурунди	NOUN	inan,masc,Sgtm,Fixd,Geox sing,nomn
-и
+и	CONJ
 представителями	представитель	NOUN	anim,masc plur,ablt
 самой	самый	ADJF	Apro femn,sing,gent
 значительной	значительный	ADJF	Qual femn,sing,gent
 организации	организация	NOUN	inan,femn sing,gent
 вооруженной	вооружённый	ADJF femn	sing,gent
 оппозиции	оппозиция	NOUN	inan,femn sing,gent
--
+-	PNCT
 Сил	сила	NOUN	inan,femn plur,gent
-в
+в	PREP
 защиту	защита	NOUN	inan,femn sing,accs
 демократии	демократия	NOUN	inan,femn sing,gent
-(
-ФДД
-)
-.
-Как
+(	PNCT
+ФДД	UNKN
+)	PNCT
+.	PNCT
+Как	CONJ
 передает	передавать	VERB	impf,tran sing,3per,pres,indc
 корреспондент	корреспондент	NOUN	anim,masc sing,nomn
 РИА	риа	NOUN	inan,neut,Sgtm,Fixd,Orgn sing,nomn
-"
+"	PNCT
 Новости	новость	NOUN	inan,femn sing,gent
-"
-,
+"	PNCT
+,	PNCT
 открывая	открывать	GRND	impf,tran pres
 сегодняшнюю	сегодняшний	ADJF femn	sing,accs
 встречу	встреча	NOUN	inan,femn sing,accs
-,
+,	PNCT
 президент	президент	NOUN	anim,masc sing,nomn
 Танзании	танзания	NOUN	inan,femn,Sgtm,Geox sing,loct
 Бенджамин	бенджамин	NOUN	anim,masc,Name sing,nomn
@@ -2853,30 +2853,30 @@ v
 призвал	призвать	VERB	perf,tran masc,sing,past,indc
 ее	она	NPRO	femn,3per,Anph sing,gent
 участников	участник	NOUN	anim,masc plur,gent
-в
+в	PREP
 качестве	качество	NOUN	inan,neut sing,loct
-"
+"	PNCT
 жеста	жест	NOUN	inan,masc sing,gent
 доброй	добрый	ADJF	Qual femn,sing,gent
 воли	воля	NOUN	inan,femn sing,gent
-и
+и	CONJ
 доказательства	доказательство	NOUN	inan,neut sing,gent
 приверженности	приверженность	NOUN	inan,femn sing,gent
 обеих	оба	NUMR femn	gent
 сторон	сторона	NOUN	inan,femn plur,gent
 миротворческому	миротворческий	ADJF masc	sing,datv
 процессу	процесс	NOUN	inan,masc sing,datv
-"
+"	PNCT
 объявить	объявить	INFN	perf,tran
 мораторий	мораторий	NOUN	inan,masc sing,nomn
-на
+на	PREP
 военные	военный	NOUN	anim,masc plur,nomn
 действия	действие	NOUN	inan,neut sing,gent
-на
+на	PREP
 весь	весь	ADJF	Apro inan,masc,sing,accs
 срок	срок	NOUN	inan,masc sing,accs
 переговоров	переговоры	NOUN	inan,GNdr,Pltm plur,gent
-.
+.	PNCT
 Российскую	российский	ADJF femn	sing,accs
 делегацию	делегация	NOUN	inan,femn sing,accs
 возглавляет	возглавлять	VERB	impf,tran sing,3per,pres,indc
@@ -2885,70 +2885,70 @@ v
 комиссии	комиссия	NOUN	inan,femn sing,gent
 МАК	мак	NOUN	inan,masc sing,nomn
 Сергей	сергей	NOUN	anim,masc,Name sing,nomn
-Зайко
-.
-Об
+Зайко	UNKN
+.	PNCT
+Об	PREP Vpre
 этом	это	NPRO	neut sing,loct
 корреспонденту	корреспондент	NOUN	anim,masc sing,datv
 РИА	риа	NOUN	inan,neut,Sgtm,Fixd,Orgn sing,nomn
-"
+"	PNCT
 Новости	новость	NOUN	inan,femn sing,gent
-"
+"	PNCT
 сообщил	сообщить	VERB	perf,tran masc,sing,past,indc
 пресс-секретарь	пресс-секретарь	NOUN	anim,masc sing,nomn
 межгосударственного	межгосударственный	ADJF masc	sing,gent
 авиационного	авиационный	ADJF neut	sing,gent
 комитета	комитет	NOUN	inan,masc sing,gent
-/
+/	PNCT
 МАК	мак	NOUN	inan,masc sing,nomn
-/
+/	PNCT
 Олег	олег	NOUN	anim,masc,Name sing,nomn
 Ермолов	ермол	NOUN	anim,masc,Name plur,gent
-.
+.	PNCT
 Российские	российский	ADJF plur	nomn
 специалисты	специалист	NOUN	anim,masc plur,nomn
 проведут	провести	VERB	perf,tran plur,3per,futr,indc
 исследования	исследование	NOUN	inan,neut sing,gent
-в
+в	PREP
 США	сша	NOUN	inan,GNdr,Pltm,Fixd,Geox plur,gent
 бортовой	бортовый	ADJF femn	sing,gent
 системы	система	NOUN	inan,femn sing,gent
-"
+"	PNCT
 Текас	текас	NOUN	inan,masc,Geox sing,nomn
-"
-,
+"	PNCT
+,	PNCT
 устанавливаемой	устанавливать	PRTF	impf,tran,pres,pssv femn,sing,gent
-на
+на	PREP
 самолетах	самолёт	NOUN	inan,masc plur,loct
-"
+"	PNCT
 Боинг	боинг	NOUN	inan,masc sing,nomn
-"
-для
+"	PNCT
+для	PREP
 предотвращения	предотвращение	NOUN	inan,neut sing,gent
 столкновений	столкновение	NOUN	inan,neut plur,gent
-в
+в	PREP
 воздухе	воздух	NOUN	inan,masc sing,loct
-и
-с
+и	CONJ
+с	PREP
 землей	земля	NOUN	inan,femn sing,ablt
-.
-Вместе
-с
-тем
-,
+.	PNCT
+Вместе	ADVB
+с	PREP
+тем	CONJ
+,	PNCT
 Ермолов	ермол	NOUN	anim,masc,Name plur,gent
 отметил	отметить	VERB	perf,tran masc,sing,past,indc
-,
-что
+,	PNCT
+что	CONJ
 работа	работа	NOUN	inan,femn sing,nomn
 германской	германский	ADJF femn	sing,gent
 комиссии	комиссия	NOUN	inan,femn sing,gent
-по
+по	PREP
 расследованию	расследование	NOUN	inan,neut sing,datv
 причин	причина	NOUN	inan,femn plur,gent
 этого	это	NPRO	neut sing,gent
 авиапроисшествия	авиапроисшествие	NOUN	inan,neut sing,gent
 ведется	вестись	VERB	impf,intr sing,3per,pres,indc,Impx
-по
+по	PREP
 плану	план	NOUN	inan,masc sing,datv
-.
+.	PNCT
