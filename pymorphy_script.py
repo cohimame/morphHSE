@@ -2,8 +2,9 @@
 import string
 import pymorphy2
 
-TEST = "test.txt"
-GOLD = "out_gold.txt"
+TEST       = "test.txt"
+GOLD       = "out_gold.txt"
+GIVENGOLD  = "GoldStandard.txt"
 
 pnkt = set(string.punctuation)
 pnkt.remove("-")
@@ -34,7 +35,7 @@ def prepare_gold():
         outfile.write("Wordform_GS2\tLemma_GS2\tPOS_GS2\tGram_GS2\n")
         for token in tokens:
             line = parse(token)
-            print(line)
+            #print(line)
             outfile.write(line)    
 
 
@@ -49,14 +50,52 @@ def parse(token):
     else:
         return "{}\n".format(token) 
     
-    
-  
+
+def first_1k(gold):
+    with open(gold, encoding='utf-8') as infile:
+        infile.readline()
+        for i in range(0,15):
+            line = infile.readline()
+            elems = line.split('\t')
+            word  = elems[0]
+            lemma = elems[1]
+            guess = morph.parse(word)[0].normal_form
+            print("{}\t\"{}\"\t{}".format(word,lemma,guess))
+           
+
+
+def lex_accuracy(gold):
+    pos   = 0.0
+    whole = 0.0
+     
+    with open(gold, encoding='utf-8') as infile:
+        infile.readline()
+        for i in range(0,1000):
+            elems = infile.readline().split('\t')    
+
+            lemma = elems[1]
+            guess = morph.parse(elems[0])[0].normal_form    
+            if (lemma == guess) and lemma !="":
+                pos += 1
+            else:
+                pass    
+            whole +=1
+                
+    return pos/whole
+                
+print(lex_accuracy(GIVENGOLD))
+
+
+#-------------------------------------  
 #text = u"Кто-нибудь позвоните Ёжи зачем-либо щекотно-с кому-то"
 #tokens = text.split()
 #print("pymorphy output: %s" % lemmatize(tokens))
     
-token = "стали"
-strtag = "%s" % morph.parse(token)[0].tag
-print(strtag.split(',',1))
-
-prepare_gold()
+#token = "стали"
+#strtag = "%s" % morph.parse(token)[0].tag
+#print(strtag.split(',',1))
+#-------------------------------------
+    
+#prepare_gold()
+    
+#-------------------------------------
