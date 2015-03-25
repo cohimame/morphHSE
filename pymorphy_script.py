@@ -61,7 +61,31 @@ def first_1k(gold):
             guess = morph.parse(word)[0].normal_form
             print("{}\t\"{}\"\t{}".format(word,lemma,guess))
            
-
+def left_ambig(gold):
+    left   = 0.0
+    whole = 0.0
+    
+    with open(gold, encoding='utf-8') as infile:
+        infile.readline()
+        for i in range(0,1000):
+            elems = infile.readline().split('\t')
+            word = elems[0]
+            tags = "%s" % morph.parse(elems[0])[0].tag
+            if tags =="":
+                print(lemma)
+            else:
+                pass
+            
+    """
+            lemma = morph.parse(word)[0].normal_form
+            if lemma =="":
+                print(lemma)
+            else:
+                pass
+    """
+    
+left_ambig(GIVENGOLD)
+#print("left ambig %s" % left_ambig(GIVENGOLD))
 
 def lex_accuracy(gold):
     pos   = 0.0
@@ -82,7 +106,7 @@ def lex_accuracy(gold):
                 
     return pos/whole
                 
-print(lex_accuracy(GIVENGOLD))
+print("lex acc %s" % lex_accuracy(GIVENGOLD))
 
 def postag_accuracy(gold):
     pos   = 0.0
@@ -121,7 +145,7 @@ def compare(postag,guess):
     else:
         return False
 
-print(postag_accuracy(GIVENGOLD))
+print("pos tag acc %s" %  postag_accuracy(GIVENGOLD))
 
 
 #-------------------------------------  
