@@ -38,7 +38,6 @@ def prepare_gold():
             #print(line)
             outfile.write(line)    
 
-
 def parse(token):
     parsed  = morph.parse(token)[0]
     norm = parsed.normal_form
@@ -84,6 +83,45 @@ def lex_accuracy(gold):
     return pos/whole
                 
 print(lex_accuracy(GIVENGOLD))
+
+def postag_accuracy(gold):
+    pos   = 0.0
+    whole = 0.0
+     
+    with open(gold, encoding='utf-8') as infile:
+        infile.readline()
+        for i in range(0,1000):
+            elems = infile.readline().split('\t')    
+
+            postag = elems[2]
+            tags = "%s" % morph.parse(elems[0])[0].tag
+            guess = tags.split(',',1)[0]
+            if compare(postag,guess):
+                pos += 1
+            else:
+                pass    
+            whole +=1
+                
+    return pos/whole
+
+def compare(postag,guess):
+    if (postag == guess) or postag =="":
+        return True
+    elif (postag == "S") and (guess == "NOUN"):
+        return True
+    elif (postag == "A") and (guess == "ADJF" or guess == "ADJS"):
+        return True
+    elif (postag == "V") and (guess == "VERB" or guess == "INFN" or guess == "PRTS"):
+        return True
+    elif (postag == "ADV") and (guess == "ADVB"):
+        return True
+    elif (postag == "SPRO") and (guess == "NPRO"):
+        return True
+    
+    else:
+        return False
+
+print(postag_accuracy(GIVENGOLD))
 
 
 #-------------------------------------  
